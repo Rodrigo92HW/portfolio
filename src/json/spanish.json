@@ -1,0 +1,282 @@
+{
+    "extras": {
+        "Header" : ["Principal", "Projectos"],
+        "Footer" : ["Contacto", "(+54) 3442-644915", "rodrigo92hw@gmail.com", "https://github.com/Rodrigo92HW", "https://www.linkedin.com/in/rodrigo-harispe/"],
+        "Error" : ["Parece que se produjo un error", "Volver a página principal"],
+        "Study" : ["Estudios", "En esta sección se encuentran listados los diferentes estudios, cursos especiales que haya tomado ademas de información de las diferentes academias a las que he asistido.", "Certificados", "Aqui se encuentran los certificados de los cursos o estudios concluidos junto a los enlaces para acceder directamente a estos."],
+        "Skill" : ["Habilidades", "En esta sección se encuentran los diferentes conocimientos adquiridos, varios conocidos con profundidad y alguno de los cuales posee al menos buenas bases sobre estos."],
+        "Project" : ["Projectos", "En esta sección se encuentran diversos projectos que he realizado o bien por un interes o amor personal, o para poder aprender aquellas areas en las me encuentro más interesado."],
+        "ProjectPage" : ["Projectos",  "Descripción", "Guia de Uso", "Practicas", "Aqui se encuentran los diferentes projectos de practica que he realizado como parte de todas las lecciones tomadas. Algunos de estos poseen enlance pero en su mayoria son projectos que se encuentran en Github para poder examinar las bases conocidas, ademas del esfuerzo realizado para aprender estos."]
+    },
+    "personal": {
+        "Name": "Rodrigo Harispe",
+        "Image": "https://i.imgur.com/1YfjvnL.png",
+        "Intro": "Un entusiasta de la programación en busca de oportunidades para aplicar y desarrollar mis habilidades.",
+        "FullIntro" : "Desde que descubrí el mundo de la programación me apasionó de todo lo que encontré en eDesde entonces, he completado numerosos cursos en línea y estoy actualmente cursando una carrera en programacióEstoy ansioso por encontrar una oportunidad que me permita poner en práctica lo aprendido y contribuir a un equipo o proyecto.",
+        "Born": "26/06/1992",
+        "City": "Argentina, CABA (Recoleta)"
+    },
+    "education": [
+        {
+            "Name": "CoderHouse",
+            "Image": "https://i.imgur.com/LbHOiMw.jpeg",
+            "Title": "Carrera",
+            "GPA": "-",
+            "Entry": "Marzo 2024",
+            "Exit": "Cursando...",
+            "Info" : "En esta carrera te desarrollarás desde cero como Full Stack Developer. Aprenderás a crear un sitio web sumergiéndote en las mejores prácticas del diseño web responsive, trabajando con HTML y CSS. Asimismo, sabrás cómo programar con Javascript, agregando interactividad y dinamismo a tus proyectos. Además, conocerás el framework React JS, que te permitirá realizar sitios más complejos, dinámicos y escalables. En relación a Backend, aprenderás a desarrollar aplicaciones modernas con Node.js y MongoDB. Programarás en Javascript del lado del servidor aplicando técnicas asincrónicas. Además, podrás integrar un sistema de autenticación y autorización para gestionar usuarios de forma segura. Finalmente, aprenderás a dominar conceptos avanzados sobre el desarrollo backend en Node.js, abordando una amplia gama de temas. Desde mocks hasta optimización con normalización, explorarás versionado, gestión de paquetes, logs, debug, y profiling para optimizar el rendimiento.",
+            "Link": "https://www.coderhouse.com/ar/"
+        },
+        {
+            "Name": "Udemy",
+            "Image": "https://i.imgur.com/tJ5yXGO.png",
+            "Title": "Cursos",
+            "GPA": "-",
+            "Entry": "Febrero 2020",
+            "Exit": "Actualidad",
+            "Info" : "Plataforma de aprendizaje en línea que ofrece una amplia variedad de cursos sobre diversos temas, desde programación y diseño hasta desarrollo personal y negocios. Los cursos son creados por instructores de todo el mundo, lo que permite a los estudiantes acceder a contenido diverso y especializado. Udemy permite a los usuarios aprender a su propio ritmo, con materiales que incluyen videos, artículos y ejercicios prácticos.",
+            "Link": "https://www.udemy.com/"
+        },
+        {
+            "Name": "Universidad Tecnológica Nacional",
+            "Image": "https://i.imgur.com/Rn5fOZq.png",
+            "Title": "Tecnicatura",
+            "GPA": "8.4",
+            "Entry": "Marzo 2021",
+            "Exit": "Febrero 2023 (Abandonado)",
+            "Info" : "La Universidad Tecnológica Nacional (UTN) es una institución pública argentina dedicada a la educación superior en ingeniería y tecnología. Fundada en 1959, ofrece carreras de grado y posgrado en diversas especialidades, como ingeniería civil, ingeniería en sistemas, e ingeniería electrónica. Su enfoque práctico y vinculación con la industria preparan a los estudiantes para los desafíos del mercado laboral. Con múltiples facultades en todo el país, la UTN es un referente en educación técnica en Argentina.",
+            "Link": "https://www.utn.edu.ar/es/"
+        },
+        {
+            "Name": "Colegio Sagrado Corazón de Jesús",
+            "Image": "https://i.imgur.com/MnswGFQ.png",
+            "Title": "Bachiller en Ciencias Sociales",
+            "GPA": "9.2",
+            "Entry": "Febrero 2004",
+            "Exit": "Diciembre 2010",
+            "Info" : "El Colegio Sagrado Corazón de Jesús es una institución educativa  reconocida por su enfoque en la formación integral de los estudiantes. Ofrece educación desde nivel inicial hasta secundario, combinando formación académica con valores cristianos y un fuerte compromiso con la comunidad. Su metodología incluye actividades pedagógicas diversificadas y un ambiente que promueve el desarrollo personal y social, preparando a los alumnos para enfrentar los desafíos del futuro.",
+            "Link": "https://paginawebsagrado.wixsite.com/sagrado"
+        }
+    ],
+    "skills": [
+        {
+            "Name": "HTML",
+            "Image": "https://i.imgur.com/a2TKrDp.png",
+            "Info": "Estructura básica de páginas web."
+        },
+        {
+            "Name": "CSS",
+            "Image": "https://i.imgur.com/UHvsQ70.png",
+            "Info": "Estilos y diseño de páginas web."
+        },
+        {
+            "Name": "JavaScript",
+            "Image": "https://i.imgur.com/3NV2531.png",
+            "Info": "Interactividad y programación en la web."
+        },
+        {
+            "Name": "ReactJS",
+            "Image": "https://i.imgur.com/rVDGZKI.png",
+            "Info": "Biblioteca para construir interfaces de usuario."
+        },
+        {
+            "Name": "C#",
+            "Image": "https://i.imgur.com/eVpx8C2.png",
+            "Info": "Lenguaje de programación orientado a objetos."
+        },
+        {
+            "Name": ".Net Core",
+            "Image": "https://i.imgur.com/21tNgCI.png",
+            "Info": "Framework para aplicaciones modernas."
+        },
+        {
+            "Name": "TypeScript",
+            "Image": "https://i.imgur.com/0pO14GB.png",
+            "Info": "Superset de JavaScript con tipado estático."
+        },
+        {
+            "Name": "Unity",
+            "Image": "https://i.imgur.com/GqnzNev.png",
+            "Info": "Motor de desarrollo para videojuegos."
+        },
+        {
+            "Name": "Sass",
+            "Image": "https://i.imgur.com/0WJbKn4.png",
+            "Info": "Preprocesador CSS para estilos más eficientes."
+        },
+        {
+            "Name": "XAML",
+            "Image": "https://i.imgur.com/zEdYQD6.png",
+            "Info": "Lenguaje de marcado para estructurar datos."
+        },
+        {
+            "Name": "Redux",
+            "Image": "https://i.imgur.com/siPIYvi.png",
+            "Info": "Gestor de estado predecible para aplicaciones JavaScript."
+        },
+        {
+            "Name": "NodeJS",
+            "Image": "https://i.imgur.com/ZFnnOas.png",
+            "Info": "Entorno de ejecución para JavaScript en servidor."
+        },
+        {
+            "Name": "SQLite",
+            "Image": "https://i.imgur.com/dcIHwJF.png",
+            "Info": "Base de datos ligera y fácil de usar."
+        },
+        {
+            "Name": "Español",
+            "Image": "https://i.imgur.com/Aa04QM2.png",
+            "Info": "Lengua materna y fluidez en comunicación."
+        },
+        {
+            "Name": "Ingles",
+            "Image": "https://i.imgur.com/OmDPn9Z.png",
+            "Info": "Competencia avanzada en lectura y escritura."
+        },
+        {
+            "Name": "Excel",
+            "Image": "https://i.imgur.com/8nnGnvo.png",
+            "Info": "Herramienta para análisis y gestión de datos."
+        }
+    ],
+    "certifications": [
+        {
+            "Name": "Desarrollo Web Flex",
+            "Image": "https://i.imgur.com/Lf7z7My.png",
+            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+        },
+        {
+            "Name": ".Net Core y ReactJS",
+            "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-2bccab84-a8ef-4069-9a7d-23d035c227b0.jpg?v=1724096423000",
+            "Link": "https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/"
+        },
+        {
+            "Name": "C#",
+            "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-478c02b5-3e80-45b2-aebd-0538bbbdf449.jpg?v=1725497343000",
+            "Link": "https://www.udemy.com/course/complete-csharp-masterclass/"
+        }
+    ],
+    "projects": [
+        {
+            "Name": "Pokemon Tabletop Adventures",
+            "Info": ["Creación de Pokemon","Esta web permite crear de forma personalizada a un Pokemon, generando sus datos únicos como su tipo, habilidades, características y movimientos. Además de la posibilidad de modificar estos a voluntad.", "Generación Aleatoria", "Capacidad de generar de forma aleatoria encuentros con Pokemon, pudiendo designar a estos basados en sus hábitats, caracterizas o preferencias a elección del usuario.", "Almacen Interno de Data", "La data es guardada localmente para evitar que uno pierda el acceso a su equipo Pokemon si la pagina es recargada. La información persiste en futuros ingresos a este si se realiza dicho ingreso a través de mismo dispositivo, sin importar cual sea este."],
+            "FullInfo": "FullInfoProject",
+            "Guide": "GuideProject",
+            "Link": "https://rodrigo92hw.github.io/pta-generator/",
+            "Github": "ProjectGithub",
+            "Image": ["https://i.imgur.com/3RrV0zI.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
+        },
+        {
+            "Name": "Reactivities",
+            "Info": ["Red Social", "Funciones propias de red social, acceso a eventos y creación de los mismos, posibilidad de crear usuarios, agregar estos a favoritos, además de poder seguir los eventos propios, en los que se participa o los que se tiene interés en participar.", "Almacen de Data en Linea", "La información es subida a una base de datos y persiste en distintos dispositivos, la información de usuarios es cifrada y persiste si este ha ingresado anteriormente al sitio, pudiendo ingresar desde diferentes dispositivos al mismo tiempo.", "Chat y Updates en Vivo", "Posibilidad de chatear con otros usuarios en tiempo real, las conversaciones persisten en el sitio y pueden ser borradas por el usuario que las creo. La App actualiza la data guardada en esta de forma constante de manera que, los cambios son sentidos en vivo por sus usuarios."],
+            "FullInfo": "FullInfoProject",
+            "Guide": "GuideProject",
+            "Link": "",
+            "Github": "ProjectGithub",
+            "Image": ["https://i.imgur.com/8yYWSLp.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
+        }
+    ],
+    "practiceProjects": [
+        {
+            "Name": "Core Concepts",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Styling Options",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Error Handling",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Refs and Portals",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Context and Reducers",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Side Effects and UseEffecs",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Optimization",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Clase Base Components",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Connecting to Database",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Custom Hooks",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Forms",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Redux",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Redux Deepdive",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Router Basics",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Router Deepdive",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Authentication",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Apps Deploying",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Query and Tanstack Query",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "NextJS Intro",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "NextJS Fullstack",
+            "Link": "",
+            "Github": ""
+        }
+    ]
+}

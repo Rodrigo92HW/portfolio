@@ -1,0 +1,283 @@
+{
+    "extras": {
+        "Header": ["Home", "Projects"],
+        "Footer": ["Contact", "(+54) 3442-644915", "rodrigo92hw@gmail.com", "https://github.com/Rodrigo92HW", "https://www.linkedin.com/in/rodrigo-harispe/"],
+        "Error": ["It seems an error occurred", "Return to main page"],
+        "Study": ["Studies", "This section lists the various studies and special courses I have taken, along with information about the different academies I have attended.", "Certificates", "Here you will find the certificates of the completed courses or studies, along with links to access them directly."],
+        "Skill": ["Skills", "This section contains the different knowledge acquired, various subjects I am well-versed in, and some of which I have at least a good foundation."],
+        "Project": ["Projects", "This section features various projects I have completed, either out of personal interest or to learn about areas I am most passionate about."],
+        "ProjectPage": ["Projects", "Description", "User Guide", "Practices", "Here are the different practice projects I have completed as part of all the lessons taken. Some of these have links, but most are projects available on GitHub for examining the foundational concepts, as well as the effort made to learn them."]
+    },
+    "personal": {
+        "Name": "Rodrigo Harispe",
+        "Image": "https://i.imgur.com/1YfjvnL.png",
+        "Intro": "A programming enthusiast seeking opportunities to apply and develop my skills.",
+        "FullIntro": "Since I discovered the world of programming, I have been passionate about everything I found. Since then, I have completed numerous online courses and am currently pursuing a degree in programming. I am eager to find an opportunity that allows me to put what I've learned into practice and contribute to a team or project.",
+        "Born": "06/26/1992",
+        "City": "Argentina, CABA (Recoleta)"
+    },
+    "education": [
+        {
+            "Name": "CoderHouse",
+            "Image": "https://i.imgur.com/LbHOiMw.jpeg",
+            "Title": "Degree",
+            "GPA": "-",
+            "Entry": "March 2024",
+            "Exit": "Currently Enrolled...",
+            "Info": "In this program, you will develop from scratch as a Full Stack Developer. You will learn how to create a website by immersing yourself in the best practices of responsive web design, working with HTML and CSS. You will also learn how to program with JavaScript, adding interactivity and dynamism to your projects. Additionally, you will get to know the React JS framework, which will enable you to create more complex, dynamic, and scalable sites. Regarding Backend, you will learn to develop modern applications with Node.js and MongoDB. You will program in JavaScript on the server side, applying asynchronous techniques. Furthermore, you will be able to integrate an authentication and authorization system to manage users securely. Finally, you will master advanced concepts in backend development with Node.js, covering a wide range of topics. From mocks to optimization with normalization, you will explore versioning, package management, logs, debugging, and profiling to optimize performance.",
+            "Link": "https://www.coderhouse.com/ar/"
+        },
+        {
+            "Name": "Udemy",
+            "Image": "https://i.imgur.com/tJ5yXGO.png",
+            "Title": "Courses",
+            "GPA": "-",
+            "Entry": "February 2020",
+            "Exit": "Present",
+            "Info": "An online learning platform that offers a wide variety of courses on various topics, from programming and design to personal development and business. Courses are created by instructors from around the world, allowing students to access diverse and specialized content. Udemy enables users to learn at their own pace, with materials including videos, articles, and practical exercises.",
+            "Link": "https://www.udemy.com/"
+        },
+        {
+            "Name": "Universidad Tecnológica Nacional",
+            "Image": "https://i.imgur.com/Rn5fOZq.png",
+            "Title": "Technical Degree",
+            "GPA": "8.4",
+            "Entry": "March 2021",
+            "Exit": "February 2023 (Abandoned)",
+            "Info": "The Universidad Tecnológica Nacional (UTN) is a public educational institution in Argentina dedicated to higher education in engineering and technology. Founded in 1959, it offers undergraduate and graduate programs in various specialties, such as civil engineering, systems engineering, and electronic engineering. Its practical approach and industry connections prepare students for the challenges of the job market. With multiple faculties across the country, UTN is a benchmark in technical education in Argentina.",
+            "Link": "https://www.utn.edu.ar/es/"
+        },
+        {
+            "Name": "Colegio Sagrado Corazón de Jesús",
+            "Image": "https://i.imgur.com/MnswGFQ.png",
+            "Title": "High School Diploma in Social Sciences",
+            "GPA": "9.2",
+            "Entry": "February 2004",
+            "Exit": "December 2010",
+            "Info": "The Colegio Sagrado Corazón de Jesús is an educational institution recognized for its focus on the holistic development of students. It offers education from preschool to secondary level, combining academic training with Christian values and a strong commitment to the community. Its methodology includes diverse pedagogical activities and an environment that promotes personal and social development, preparing students to face future challenges.",
+            "Link": "https://paginawebsagrado.wixsite.com/sagrado"
+        }
+    ],
+    "skills": [
+        {
+            "Name": "HTML",
+            "Image": "https://i.imgur.com/a2TKrDp.png",
+            "Info": "Basic structure of web pages."
+        },
+        {
+            "Name": "CSS",
+            "Image": "https://i.imgur.com/UHvsQ70.png",
+            "Info": "Styles and design of web pages."
+        },
+        {
+            "Name": "JavaScript",
+            "Image": "https://i.imgur.com/3NV2531.png",
+            "Info": "Interactivity and programming on the web."
+        },
+        {
+            "Name": "ReactJS",
+            "Image": "https://i.imgur.com/rVDGZKI.png",
+            "Info": "Library for building user interfaces."
+        },
+        {
+            "Name": "C#",
+            "Image": "https://i.imgur.com/eVpx8C2.png",
+            "Info": "Object-oriented programming language."
+        },
+        {
+            "Name": ".Net Core",
+            "Image": "https://i.imgur.com/21tNgCI.png",
+            "Info": "Framework for modern applications."
+        },
+        {
+            "Name": "TypeScript",
+            "Image": "https://i.imgur.com/0pO14GB.png",
+            "Info": "Superset of JavaScript with static typing."
+        },
+        {
+            "Name": "Unity",
+            "Image": "https://i.imgur.com/GqnzNev.png",
+            "Info": "Game development engine."
+        },
+        {
+            "Name": "Sass",
+            "Image": "https://i.imgur.com/0WJbKn4.png",
+            "Info": "CSS preprocessor for more efficient styles."
+        },
+        {
+            "Name": "XAML",
+            "Image": "https://i.imgur.com/zEdYQD6.png",
+            "Info": "Markup language for structuring data."
+        },
+        {
+            "Name": "Redux",
+            "Image": "https://i.imgur.com/siPIYvi.png",
+            "Info": "Predictable state management for JavaScript applications."
+        },
+        {
+            "Name": "NodeJS",
+            "Image": "https://i.imgur.com/ZFnnOas.png",
+            "Info": "Runtime environment for JavaScript on the server."
+        },
+        {
+            "Name": "SQLite",
+            "Image": "https://i.imgur.com/dcIHwJF.png",
+            "Info": "Lightweight and easy-to-use database."
+        },
+        {
+            "Name": "Español",
+            "Image": "https://i.imgur.com/Aa04QM2.png",
+            "Info": "Native language and fluent in communication."
+        },
+        {
+            "Name": "Ingles",
+            "Image": "https://i.imgur.com/OmDPn9Z.png",
+            "Info": "Advanced proficiency in reading and writing."
+        },
+        {
+            "Name": "Excel",
+            "Image": "https://i.imgur.com/8nnGnvo.png",
+            "Info": "Tool for data analysis and management."
+        }
+    ],
+    "certifications": [
+        {
+            "Name": "Desarrollo Web Flex",
+            "Image": "https://i.imgur.com/Lf7z7My.png",
+            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+        },
+        {
+            "Name": ".Net Core y ReactJS",
+            "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-2bccab84-a8ef-4069-9a7d-23d035c227b0.jpg?v=1724096423000",
+            "Link": "https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/"
+        },
+        {
+            "Name": "C#",
+            "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-478c02b5-3e80-45b2-aebd-0538bbbdf449.jpg?v=1725497343000",
+            "Link": "https://www.udemy.com/course/complete-csharp-masterclass/"
+        }
+    ],
+    "projects": [
+        {
+            "Name": "Pokemon Tabletop Adventures",
+            "Info": [ "Pokémon Creation", "This web application allows you to create a Pokémon customly, generating its unique data such as type, abilities, characteristics, and moves. Additionally, you can modify these at will.", "Random Generation", "Ability to randomly generate encounters with Pokémon, allowing these to be designated based on their habitats, characteristics, or user preferences.",    "Internal Data Storage", "Data is stored locally to prevent losing access to your Pokémon team if the page is reloaded. Information persists on future logins if done through the same device, regardless of what that device is."
+            ],
+            "FullInfo": "FullInfoProject",
+            "Guide": "GuideProject",
+            "Link": "https://rodrigo92hw.github.io/pta-generator/",
+            "Github": "ProjectGithub",
+            "Image": ["https://i.imgur.com/Lf7z7My.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
+        },
+        {
+            "Name": "Reactivities",
+            "Info": ["Social Network", "Features specific to a social network, access to events and creation of events, the ability to create users, add them to favorites, and follow events in which they participate or are interested.", "Online Data Storage", "Information is uploaded to a database and persists across different devices. User information is encrypted and remains available if they have logged in previously, allowing access from multiple devices at the same time.", "Live Chat and Updates", "The ability to chat with other users in real-time, with conversations persisting on the site and able to be deleted by the user who created them. The app constantly updates the stored data so that changes are experienced live by its users."],
+            "FullInfo": "FullInfoProject",
+            "Guide": "GuideProject",
+            "Link": "",
+            "Github": "ProjectGithub",
+            "Image": ["https://i.imgur.com/Lf7z7My.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
+        }
+    ],
+    "practiceProjects": [
+        {
+            "Name": "Core Concepts",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Styling Options",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Error Handling",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Refs and Portals",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Context and Reducers",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Side Effects and UseEffecs",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Optimization",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Clase Base Components",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Connecting to Database",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Custom Hooks",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Forms",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Redux",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Redux Deepdive",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Router Basics",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Router Deepdive",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Authentication",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Apps Deploying",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "Query and Tanstack Query",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "NextJS Intro",
+            "Link": "",
+            "Github": ""
+        },
+        {
+            "Name": "NextJS Fullstack",
+            "Link": "",
+            "Github": ""
+        }
+    ]
+}
