@@ -171,9 +171,9 @@
         {
             "Name": "Reactivities",
             "Info": ["Social Network", "Features specific to a social network, access to events and creation of events, the ability to create users, add them to favorites, and follow events in which they participate or are interested.", "Online Data Storage", "Information is uploaded to a database and persists across different devices. User information is encrypted and remains available if they have logged in previously, allowing access from multiple devices at the same time.", "Live Chat and Updates", "The ability to chat with other users in real-time, with conversations persisting on the site and able to be deleted by the user who created them. The app constantly updates the stored data so that changes are experienced live by its users."],
-            "FullInfo": "FullInfoProject",
-            "Guide": "GuideProject",
-            "Link": "",
+            "FullInfo": ["This project called Reactivities was created from Udemy courses that I started in late 2023 and completed in early 2024.", "In this project, a social network-style website is created, similar to Facebook, X, and other similar networks. Part of the motivation for this project was my desire to learn more seriously about web development, especially with React, guided by a teacher who taught lesson by lesson.", "This project helped me increase my knowledge of React and introduced me to very basic elements I was unfamiliar with, such as project structure, security encryption, and the use of various libraries like MobX and SignalR, among others, to facilitate tasks."],
+            "Guide": ["This is a complex web application, with a landing page that allows user creation or login. Once inside, it leads to a section where a series of events or activities can be found. Users can explore activities created by others, comment on them, follow those users, and perform other typical social media functions.", "Users also have the option to create their own events and organize them as they wish. They can edit their own profiles and explore other users' profiles, as well as follow or unfollow them. Any updates or events that occur on the site are updated in real-time for other connected users."],
+            "Link": "https://reactivities-course.fly.dev/",
             "Github": "ProjectGithub",
             "Image": ["https://i.imgur.com/Lf7z7My.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
         }
@@ -182,87 +182,87 @@
         {
             "Name": "Core Concepts",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/1.-Core-Concepts"
         },
         {
             "Name": "Styling Options",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/3.-Styling-Options"
         },
         {
             "Name": "Error Handling",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/4.-Error-Handling"
         },
         {
             "Name": "Refs and Portals",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/5.-Refs-and-Portals"
         },
         {
             "Name": "Context and Reducers",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/6.-Context-and-Reducers"
         },
         {
             "Name": "Side Effects and UseEffecs",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/7.-Side-Effects-and-UseEffecs"
         },
         {
             "Name": "Optimization",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/8.-React-Optimization"
         },
         {
             "Name": "Clase Base Components",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/9.-Clase-Base-Components"
         },
         {
             "Name": "Connecting to Database",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/10.-Connecting-to-Database"
         },
         {
             "Name": "Custom Hooks",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/11.-Custom-Hooks"
         },
         {
             "Name": "Forms",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/12.-React-Forms"
         },
         {
             "Name": "Redux",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/13.-Redux"
         },
         {
             "Name": "Redux Deepdive",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/14.-Redux-Deepdive"
         },
         {
             "Name": "Router Basics",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/15.-React-Router-Basics"
         },
         {
             "Name": "Router Deepdive",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/16.-React-Router-Deepdive"
         },
         {
             "Name": "Authentication",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/17.-Authentication"
         },
         {
             "Name": "Apps Deploying",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/18.-React-Apps-Deploying"
         },
         {
             "Name": "Query and Tanstack Query",

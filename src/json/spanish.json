@@ -161,8 +161,8 @@
         {
             "Name": "Pokemon Tabletop Adventures",
             "Info": ["Creación de Pokemon","Esta web permite crear de forma personalizada a un Pokemon, generando sus datos únicos como su tipo, habilidades, características y movimientos. Además de la posibilidad de modificar estos a voluntad.", "Generación Aleatoria", "Capacidad de generar de forma aleatoria encuentros con Pokemon, pudiendo designar a estos basados en sus hábitats, caracterizas o preferencias a elección del usuario.", "Almacen Interno de Data", "La data es guardada localmente para evitar que uno pierda el acceso a su equipo Pokemon si la pagina es recargada. La información persiste en futuros ingresos a este si se realiza dicho ingreso a través de mismo dispositivo, sin importar cual sea este."],
-            "FullInfo": "FullInfoProject",
-            "Guide": "GuideProject",
+            "FullInfo": ["This website significantly contributed to my personal development and especially led me to use React. The use of this library and its functions made the creation of the website possible.", "This website features a system for creating Pokémon based on a popular tabletop role-playing game known as Pokémon Tabletop Adventures (https://linktr.ee/PokemonTabletopAdventures3). The purpose of creating this site was simple: in my personal opinion, it was an excellent system, but also a very challenging one to implement.", "Many factors, such as the abundance of Pokémon, the need to consider complete teams, and the difficulty of generating interesting encounters when one has to sift through more than 100 pages of content to find what they want, led to the creation of this website where users can easily generate encounters and have their own team always at hand (and even research future Pokémon of interest)."],
+            "Guide": ["The website currently has two functional sections: 'Pokémon Team' and 'Pokémon Encounter.'", "The first allows players to access a list of Pokémon, ideally designed to limit teams to six, but there is an option to expand the number of Pokémon using a button at the bottom of the page. The second section is intended for GMs, providing an easy alternative for creating encounters.", "While all Pokémon are created in their base forms, it is possible to specify their evolutionary stage, whether they are legendary or not, and it even allows searching by environment, nature, or other factors."],
             "Link": "https://rodrigo92hw.github.io/pta-generator/",
             "Github": "ProjectGithub",
             "Image": ["https://i.imgur.com/3RrV0zI.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
@@ -170,9 +170,9 @@
         {
             "Name": "Reactivities",
             "Info": ["Red Social", "Funciones propias de red social, acceso a eventos y creación de los mismos, posibilidad de crear usuarios, agregar estos a favoritos, además de poder seguir los eventos propios, en los que se participa o los que se tiene interés en participar.", "Almacen de Data en Linea", "La información es subida a una base de datos y persiste en distintos dispositivos, la información de usuarios es cifrada y persiste si este ha ingresado anteriormente al sitio, pudiendo ingresar desde diferentes dispositivos al mismo tiempo.", "Chat y Updates en Vivo", "Posibilidad de chatear con otros usuarios en tiempo real, las conversaciones persisten en el sitio y pueden ser borradas por el usuario que las creo. La App actualiza la data guardada en esta de forma constante de manera que, los cambios son sentidos en vivo por sus usuarios."],
-            "FullInfo": "FullInfoProject",
-            "Guide": "GuideProject",
-            "Link": "",
+            "FullInfo": ["Este proyectó llamado reactivities fue creado a partir de cursos de Udemy las cuales inicié a fines del 2023 y concluí a principios del 2024.", "En este se crea una pagina web a modo red social como lo es Facebook, X y las demás redes sociales similares, en parte este proyectó fue encarado por mi voluntad de aprender mas seriamente como era el desarrollo web y en especial con React, y en este caso, guiadas por un profesor que enseñase lección a lección.", "Este proyectó me sirvió para aumentar mis conocimientos de React y darme a conocer elementos muy básicos que desconocía, como son la estructura de un proyectó, cifrados de seguridad y también el uso de diversas librerías como MobX, SignalR entre otros, para facilitar tareas."],
+            "Guide": ["Esta es una web compleja, con una pagina donde uno aterriza que permite la creación o ingreso de usuarios, y una vez dentro lleva a una sección donde se encuentren una serie de eventos o actividades, uno puede explorar actividades creadas por otros usuarios, comentar en las mismas, seguir a estos y demás funciones típicas de redes sociales.", "Uno también tiene la posibilidad de crear sus propios eventos y organizar estos como se desee, uno puede editar su propio perfil además de poder explorar perfil de otros usuarios y seguir o dejar de seguir a estos. Cualquier tipo de actualización o evento que ocurra en la web es actualizado en tiempo real a los demás usuarios conectados."],
+            "Link": "https://reactivities-course.fly.dev/",
             "Github": "ProjectGithub",
             "Image": ["https://i.imgur.com/8yYWSLp.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
         }
@@ -181,87 +181,87 @@
         {
             "Name": "Core Concepts",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/1.-Core-Concepts"
         },
         {
             "Name": "Styling Options",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/3.-Styling-Options"
         },
         {
             "Name": "Error Handling",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/4.-Error-Handling"
         },
         {
             "Name": "Refs and Portals",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/5.-Refs-and-Portals"
         },
         {
             "Name": "Context and Reducers",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/6.-Context-and-Reducers"
         },
         {
             "Name": "Side Effects and UseEffecs",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/7.-Side-Effects-and-UseEffecs"
         },
         {
             "Name": "Optimization",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/8.-React-Optimization"
         },
         {
             "Name": "Clase Base Components",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/9.-Clase-Base-Components"
         },
         {
             "Name": "Connecting to Database",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/10.-Connecting-to-Database"
         },
         {
             "Name": "Custom Hooks",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/11.-Custom-Hooks"
         },
         {
             "Name": "Forms",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/12.-React-Forms"
         },
         {
             "Name": "Redux",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/13.-Redux"
         },
         {
             "Name": "Redux Deepdive",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/14.-Redux-Deepdive"
         },
         {
             "Name": "Router Basics",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/15.-React-Router-Basics"
         },
         {
             "Name": "Router Deepdive",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/16.-React-Router-Deepdive"
         },
         {
             "Name": "Authentication",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/17.-Authentication"
         },
         {
             "Name": "Apps Deploying",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/18.-React-Apps-Deploying"
         },
         {
             "Name": "Query and Tanstack Query",
