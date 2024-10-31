@@ -180,6 +180,11 @@
             "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
         },
         {
+            "Name": "React",
+            "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-4df4f8a7-05f0-43d1-9808-00b2208a4b90.jpg?v=1730413274000",
+            "Link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+        },
+        {
             "Name": ".Net Core y ReactJS",
             "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-2bccab84-a8ef-4069-9a7d-23d035c227b0.jpg?v=1724096423000",
             "Link": "https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/"
