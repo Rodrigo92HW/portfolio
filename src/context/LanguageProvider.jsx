@@ -9,16 +9,6 @@ const languages = {
     en: englishJSON,
 };
 
-const spanish = {
-    extras: spanishJSON.Extras,
-    personal: spanishJSON.Personal,
-    education: spanishJSON.Education,
-    skills: spanishJSON.Skills,
-    certifications: spanishJSON.Certifications,
-    projects: spanishJSON.Projects,
-    practiceProjects: spanishJSON.PracticeProjects
-}
-
 export default function LanguageProvider({children}) {
     const [language, setLanguage] = useState('es');
 

@@ -1,6 +1,7 @@
 import Education from "./home/Education";
+import Experience from "./home/Experience";
 import Personal from "./home/Personal";
-import ProjectHome from "./home/ProjectHomeCard";
+import ProjectHome from "./home/ProjectHome";
 import Skills from "./home/Skills";
 
 export default function Home() {
@@ -13,6 +14,9 @@ export default function Home() {
             <section className="education section">
                 <Education />
             </section>  
+            <section className="experience section">
+                <Experience />
+            </section>
             <section className="skills section">
                 <Skills />
             </section>

@@ -1,12 +1,45 @@
 {
     "extras": {
-        "Header": ["Home", "Projects"],
-        "Footer": ["Contact", "(+54) 3442-644915", "rodrigo92hw@gmail.com", "https://github.com/Rodrigo92HW", "https://www.linkedin.com/in/rodrigo-harispe/"],
-        "Error": ["It seems an error occurred", "Return to main page"],
-        "Study": ["Studies", "This section lists the various studies and special courses I have taken, along with information about the different academies I have attended.", "Certificates", "Here you will find the certificates of the completed courses or studies, along with links to access them directly."],
-        "Skill": ["Skills", "This section contains the different knowledge acquired, various subjects I am well-versed in, and some of which I have at least a good foundation."],
-        "Project": ["Projects", "This section features various projects I have completed, either out of personal interest or to learn about areas I am most passionate about."],
-        "ProjectPage": ["Projects", "Description", "User Guide", "Practices", "Here are the different practice projects I have completed as part of all the lessons taken. Some of these have links, but most are projects available on GitHub for examining the foundational concepts, as well as the effort made to learn them."]
+        "Header": [
+            "Home",
+            "Projects"
+        ],
+        "Footer": [
+            "Contact",
+            "(+54) 3442-644915",
+            "rodrigo92hw@gmail.com",
+            "https://github.com/Rodrigo92HW",
+            "https://www.linkedin.com/in/rodrigo-harispe/"
+        ],
+        "Error": [
+            "It seems an error occurred",
+            "Return to main page"
+        ],
+        "Study": [
+            "Studies",
+            "This section lists the various studies and special courses I have taken, along with information about the different academies I have attended.",
+            "Certificates",
+            "Here you will find the certificates of the completed courses or studies, along with links to access them directly."
+        ],
+        "Skill": [
+            "Skills",
+            "This section contains the different knowledge acquired, various subjects I am well-versed in, and some of which I have at least a good foundation."
+        ],
+        "Experience" : [
+            "Experience",
+            "In this sections you can find the different jobs that I have taken trought out the years."
+        ],
+        "Project": [
+            "Projects",
+            "This section features various projects I have completed, either out of personal interest or to learn about areas I am most passionate about."
+        ],
+        "ProjectPage": [
+            "Projects",
+            "Description",
+            "User Guide",
+            "Practices",
+            "Here are the different practice projects I have completed as part of all the lessons taken. Some of these have links, but most are projects available on GitHub for examining the foundational concepts, as well as the effort made to learn them."
+        ]
     },
     "personal": {
         "Name": "Rodrigo Harispe",
@@ -160,22 +193,50 @@
     "projects": [
         {
             "Name": "Pokemon Tabletop Adventures",
-            "Info": [ "Pokémon Creation", "This web application allows you to create a Pokémon customly, generating its unique data such as type, abilities, characteristics, and moves. Additionally, you can modify these at will.", "Random Generation", "Ability to randomly generate encounters with Pokémon, allowing these to be designated based on their habitats, characteristics, or user preferences.",    "Internal Data Storage", "Data is stored locally to prevent losing access to your Pokémon team if the page is reloaded. Information persists on future logins if done through the same device, regardless of what that device is."
+            "Info": [
+                "Pokémon Creation",
+                "This web application allows you to create a Pokémon customly, generating its unique data such as type, abilities, characteristics, and moves. Additionally, you can modify these at will.",
+                "Random Generation",
+                "Ability to randomly generate encounters with Pokémon, allowing these to be designated based on their habitats, characteristics, or user preferences.",
+                "Internal Data Storage",
+                "Data is stored locally to prevent losing access to your Pokémon team if the page is reloaded. Information persists on future logins if done through the same device, regardless of what that device is."
             ],
             "FullInfo": "FullInfoProject",
             "Guide": "GuideProject",
             "Link": "https://rodrigo92hw.github.io/pta-generator/",
             "Github": "ProjectGithub",
-            "Image": ["https://i.imgur.com/Lf7z7My.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
+            "Image": [
+                "https://i.imgur.com/Lf7z7My.png",
+                "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "https://i.imgur.com/Lf7z7My.png"
+            ]
         },
         {
             "Name": "Reactivities",
-            "Info": ["Social Network", "Features specific to a social network, access to events and creation of events, the ability to create users, add them to favorites, and follow events in which they participate or are interested.", "Online Data Storage", "Information is uploaded to a database and persists across different devices. User information is encrypted and remains available if they have logged in previously, allowing access from multiple devices at the same time.", "Live Chat and Updates", "The ability to chat with other users in real-time, with conversations persisting on the site and able to be deleted by the user who created them. The app constantly updates the stored data so that changes are experienced live by its users."],
-            "FullInfo": ["This project called Reactivities was created from Udemy courses that I started in late 2023 and completed in early 2024.", "In this project, a social network-style website is created, similar to Facebook, X, and other similar networks. Part of the motivation for this project was my desire to learn more seriously about web development, especially with React, guided by a teacher who taught lesson by lesson.", "This project helped me increase my knowledge of React and introduced me to very basic elements I was unfamiliar with, such as project structure, security encryption, and the use of various libraries like MobX and SignalR, among others, to facilitate tasks."],
-            "Guide": ["This is a complex web application, with a landing page that allows user creation or login. Once inside, it leads to a section where a series of events or activities can be found. Users can explore activities created by others, comment on them, follow those users, and perform other typical social media functions.", "Users also have the option to create their own events and organize them as they wish. They can edit their own profiles and explore other users' profiles, as well as follow or unfollow them. Any updates or events that occur on the site are updated in real-time for other connected users."],
+            "Info": [
+                "Social Network",
+                "Features specific to a social network, access to events and creation of events, the ability to create users, add them to favorites, and follow events in which they participate or are interested.",
+                "Online Data Storage",
+                "Information is uploaded to a database and persists across different devices. User information is encrypted and remains available if they have logged in previously, allowing access from multiple devices at the same time.",
+                "Live Chat and Updates",
+                "The ability to chat with other users in real-time, with conversations persisting on the site and able to be deleted by the user who created them. The app constantly updates the stored data so that changes are experienced live by its users."
+            ],
+            "FullInfo": [
+                "This project called Reactivities was created from Udemy courses that I started in late 2023 and completed in early 2024.",
+                "In this project, a social network-style website is created, similar to Facebook, X, and other similar networks. Part of the motivation for this project was my desire to learn more seriously about web development, especially with React, guided by a teacher who taught lesson by lesson.",
+                "This project helped me increase my knowledge of React and introduced me to very basic elements I was unfamiliar with, such as project structure, security encryption, and the use of various libraries like MobX and SignalR, among others, to facilitate tasks."
+            ],
+            "Guide": [
+                "This is a complex web application, with a landing page that allows user creation or login. Once inside, it leads to a section where a series of events or activities can be found. Users can explore activities created by others, comment on them, follow those users, and perform other typical social media functions.",
+                "Users also have the option to create their own events and organize them as they wish. They can edit their own profiles and explore other users' profiles, as well as follow or unfollow them. Any updates or events that occur on the site are updated in real-time for other connected users."
+            ],
             "Link": "https://reactivities-course.fly.dev/",
             "Github": "ProjectGithub",
-            "Image": ["https://i.imgur.com/Lf7z7My.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
+            "Image": [
+                "https://i.imgur.com/Lf7z7My.png",
+                "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "https://i.imgur.com/Lf7z7My.png"
+            ]
         }
     ],
     "practiceProjects": [
@@ -267,17 +328,68 @@
         {
             "Name": "Query and Tanstack Query",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/19.-React-Query-and-Tanstack-Query"
         },
         {
             "Name": "NextJS Intro",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/20.-NextJS-Intro"
         },
         {
-            "Name": "NextJS Fullstack",
+            "Name": "React Animation",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/22.-Framer-Motion---Animating-React"
+        },
+        {
+            "Name": "React Optimization",
+            "Link": "",
+            "Github": "https://github.com/Rodrigo92HW/23.-Patterns-and-Better-Optimization"
+        },
+        {
+            "Name": "Testing",
+            "Link": "",
+            "Github": "https://github.com/Rodrigo92HW/24.-Testing-React-App"
+        },
+        {
+            "Name": "TypeScript",
+            "Link": "",
+            "Github": "https://github.com/Rodrigo92HW/25.-Typescript"
+        }
+    ],
+    "experience": [
+        {
+            "Position": "Technical Assistant and Salesperson",
+            "WorkPlace": "Farmacia Harispe - Concepción del Uruguay",
+            "Entry": "February 2024",
+            "Exit": "Present",
+            "Content": [
+                "Worked as a salesperson and distributor of medications provided to both individuals and those needed for social security.",
+                "Contributed to the installation and maintenance of equipment and work systems. Developed Excel tools for task management and other necessary elements for management.",
+                "Performed messenger tasks and assistance during 24-hour work shifts that took place monthly."
+            ]
+        },
+        {
+            "Position": "Junior Developer",
+            "WorkPlace": "Noni Games - Capital Federal",
+            "Entry": "January 2022",
+            "Exit": "January 2024",
+            "Content": [
+                "Acted as a Unity developer and assisted my team in creating 3D models in Blender and their subsequent integration into the project.",
+                "Participated in the creation of a game that received significant praise and mentions at the Córdoba Programming Festival.",
+                "Acted as a Unity developer and assisted in the creative process, as well as in developing ideas for the level design of this project.",
+                "Participated in events in the city of Buenos Aires and contests alongside the rest of my team."
+            ]
+        },
+        {
+            "Position": "Manager and Salesperson",
+            "WorkPlace": "Holbox - Capital Federal",
+            "Entry": "February 2023",
+            "Exit": "February 2024",
+            "Content": [
+                "In charge of Commerce and Technical Assistance at a beverage store.",
+                "Held the position of supervisor and general manager of the branch, overseeing personnel, stock, and other administrative tasks requiring my control.",
+                "Worked in consumer sales, cash handling, and other tasks required by my position."
+            ]
         }
     ]
 }

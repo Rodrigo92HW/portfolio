@@ -1,18 +1,51 @@
 {
     "extras": {
-        "Header" : ["Principal", "Projectos"],
-        "Footer" : ["Contacto", "(+54) 3442-644915", "rodrigo92hw@gmail.com", "https://github.com/Rodrigo92HW", "https://www.linkedin.com/in/rodrigo-harispe/"],
-        "Error" : ["Parece que se produjo un error", "Volver a página principal"],
-        "Study" : ["Estudios", "En esta sección se encuentran listados los diferentes estudios, cursos especiales que haya tomado ademas de información de las diferentes academias a las que he asistido.", "Certificados", "Aqui se encuentran los certificados de los cursos o estudios concluidos junto a los enlaces para acceder directamente a estos."],
-        "Skill" : ["Habilidades", "En esta sección se encuentran los diferentes conocimientos adquiridos, varios conocidos con profundidad y alguno de los cuales posee al menos buenas bases sobre estos."],
-        "Project" : ["Projectos", "En esta sección se encuentran diversos projectos que he realizado o bien por un interes o amor personal, o para poder aprender aquellas areas en las me encuentro más interesado."],
-        "ProjectPage" : ["Projectos",  "Descripción", "Guia de Uso", "Practicas", "Aqui se encuentran los diferentes projectos de practica que he realizado como parte de todas las lecciones tomadas. Algunos de estos poseen enlance pero en su mayoria son projectos que se encuentran en Github para poder examinar las bases conocidas, ademas del esfuerzo realizado para aprender estos."]
+        "Header": [
+            "Principal",
+            "Projectos"
+        ],
+        "Footer": [
+            "Contacto",
+            "(+54) 3442-644915",
+            "rodrigo92hw@gmail.com",
+            "https://github.com/Rodrigo92HW",
+            "https://www.linkedin.com/in/rodrigo-harispe/"
+        ],
+        "Error": [
+            "Parece que se produjo un error",
+            "Volver a página principal"
+        ],
+        "Study": [
+            "Estudios",
+            "En esta sección se encuentran listados los diferentes estudios, cursos especiales que haya tomado ademas de información de las diferentes academias a las que he asistido.",
+            "Certificados",
+            "Aqui se encuentran los certificados de los cursos o estudios concluidos junto a los enlaces para acceder directamente a estos."
+        ],
+        "Skill": [
+            "Habilidades",
+            "En esta sección se encuentran los diferentes conocimientos adquiridos, varios conocidos con profundidad y alguno de los cuales posee al menos buenas bases sobre estos."
+        ],
+        "Experience" : [
+            "Experiencia",
+            "En en sección se encuentra los diferentes trabajos que he tomado a lo largo de los años."
+        ],
+        "Project": [
+            "Projectos",
+            "En esta sección se encuentran diversos projectos que he realizado o bien por un interes o amor personal, o para poder aprender aquellas areas en las me encuentro más interesado."
+        ],
+        "ProjectPage": [
+            "Projectos",
+            "Descripción",
+            "Guia de Uso",
+            "Practicas",
+            "Aqui se encuentran los diferentes projectos de practica que he realizado como parte de todas las lecciones tomadas. Algunos de estos poseen enlance pero en su mayoria son projectos que se encuentran en Github para poder examinar las bases conocidas, ademas del esfuerzo realizado para aprender estos."
+        ]
     },
     "personal": {
         "Name": "Rodrigo Harispe",
         "Image": "https://i.imgur.com/1YfjvnL.png",
         "Intro": "Un entusiasta de la programación en busca de oportunidades para aplicar y desarrollar mis habilidades.",
-        "FullIntro" : "Desde que descubrí el mundo de la programación me apasionó de todo lo que encontré en eDesde entonces, he completado numerosos cursos en línea y estoy actualmente cursando una carrera en programacióEstoy ansioso por encontrar una oportunidad que me permita poner en práctica lo aprendido y contribuir a un equipo o proyecto.",
+        "FullIntro": "Desde que descubrí el mundo de la programación me apasionó de todo lo que encontré en eDesde entonces, he completado numerosos cursos en línea y estoy actualmente cursando una carrera en programacióEstoy ansioso por encontrar una oportunidad que me permita poner en práctica lo aprendido y contribuir a un equipo o proyecto.",
         "Born": "26/06/1992",
         "City": "Argentina, CABA (Recoleta)"
     },
@@ -24,7 +57,7 @@
             "GPA": "-",
             "Entry": "Marzo 2024",
             "Exit": "Cursando...",
-            "Info" : "En esta carrera te desarrollarás desde cero como Full Stack Developer. Aprenderás a crear un sitio web sumergiéndote en las mejores prácticas del diseño web responsive, trabajando con HTML y CSS. Asimismo, sabrás cómo programar con Javascript, agregando interactividad y dinamismo a tus proyectos. Además, conocerás el framework React JS, que te permitirá realizar sitios más complejos, dinámicos y escalables. En relación a Backend, aprenderás a desarrollar aplicaciones modernas con Node.js y MongoDB. Programarás en Javascript del lado del servidor aplicando técnicas asincrónicas. Además, podrás integrar un sistema de autenticación y autorización para gestionar usuarios de forma segura. Finalmente, aprenderás a dominar conceptos avanzados sobre el desarrollo backend en Node.js, abordando una amplia gama de temas. Desde mocks hasta optimización con normalización, explorarás versionado, gestión de paquetes, logs, debug, y profiling para optimizar el rendimiento.",
+            "Info": "En esta carrera te desarrollarás desde cero como Full Stack Developer. Aprenderás a crear un sitio web sumergiéndote en las mejores prácticas del diseño web responsive, trabajando con HTML y CSS. Asimismo, sabrás cómo programar con Javascript, agregando interactividad y dinamismo a tus proyectos. Además, conocerás el framework React JS, que te permitirá realizar sitios más complejos, dinámicos y escalables. En relación a Backend, aprenderás a desarrollar aplicaciones modernas con Node.js y MongoDB. Programarás en Javascript del lado del servidor aplicando técnicas asincrónicas. Además, podrás integrar un sistema de autenticación y autorización para gestionar usuarios de forma segura. Finalmente, aprenderás a dominar conceptos avanzados sobre el desarrollo backend en Node.js, abordando una amplia gama de temas. Desde mocks hasta optimización con normalización, explorarás versionado, gestión de paquetes, logs, debug, y profiling para optimizar el rendimiento.",
             "Link": "https://www.coderhouse.com/ar/"
         },
         {
@@ -34,7 +67,7 @@
             "GPA": "-",
             "Entry": "Febrero 2020",
             "Exit": "Actualidad",
-            "Info" : "Plataforma de aprendizaje en línea que ofrece una amplia variedad de cursos sobre diversos temas, desde programación y diseño hasta desarrollo personal y negocios. Los cursos son creados por instructores de todo el mundo, lo que permite a los estudiantes acceder a contenido diverso y especializado. Udemy permite a los usuarios aprender a su propio ritmo, con materiales que incluyen videos, artículos y ejercicios prácticos.",
+            "Info": "Plataforma de aprendizaje en línea que ofrece una amplia variedad de cursos sobre diversos temas, desde programación y diseño hasta desarrollo personal y negocios. Los cursos son creados por instructores de todo el mundo, lo que permite a los estudiantes acceder a contenido diverso y especializado. Udemy permite a los usuarios aprender a su propio ritmo, con materiales que incluyen videos, artículos y ejercicios prácticos.",
             "Link": "https://www.udemy.com/"
         },
         {
@@ -44,7 +77,7 @@
             "GPA": "8.4",
             "Entry": "Marzo 2021",
             "Exit": "Febrero 2023 (Abandonado)",
-            "Info" : "La Universidad Tecnológica Nacional (UTN) es una institución pública argentina dedicada a la educación superior en ingeniería y tecnología. Fundada en 1959, ofrece carreras de grado y posgrado en diversas especialidades, como ingeniería civil, ingeniería en sistemas, e ingeniería electrónica. Su enfoque práctico y vinculación con la industria preparan a los estudiantes para los desafíos del mercado laboral. Con múltiples facultades en todo el país, la UTN es un referente en educación técnica en Argentina.",
+            "Info": "La Universidad Tecnológica Nacional (UTN) es una institución pública argentina dedicada a la educación superior en ingeniería y tecnología. Fundada en 1959, ofrece carreras de grado y posgrado en diversas especialidades, como ingeniería civil, ingeniería en sistemas, e ingeniería electrónica. Su enfoque práctico y vinculación con la industria preparan a los estudiantes para los desafíos del mercado laboral. Con múltiples facultades en todo el país, la UTN es un referente en educación técnica en Argentina.",
             "Link": "https://www.utn.edu.ar/es/"
         },
         {
@@ -54,7 +87,7 @@
             "GPA": "9.2",
             "Entry": "Febrero 2004",
             "Exit": "Diciembre 2010",
-            "Info" : "El Colegio Sagrado Corazón de Jesús es una institución educativa  reconocida por su enfoque en la formación integral de los estudiantes. Ofrece educación desde nivel inicial hasta secundario, combinando formación académica con valores cristianos y un fuerte compromiso con la comunidad. Su metodología incluye actividades pedagógicas diversificadas y un ambiente que promueve el desarrollo personal y social, preparando a los alumnos para enfrentar los desafíos del futuro.",
+            "Info": "El Colegio Sagrado Corazón de Jesús es una institución educativa  reconocida por su enfoque en la formación integral de los estudiantes. Ofrece educación desde nivel inicial hasta secundario, combinando formación académica con valores cristianos y un fuerte compromiso con la comunidad. Su metodología incluye actividades pedagógicas diversificadas y un ambiente que promueve el desarrollo personal y social, preparando a los alumnos para enfrentar los desafíos del futuro.",
             "Link": "https://paginawebsagrado.wixsite.com/sagrado"
         }
     ],
@@ -160,76 +193,113 @@
     "projects": [
         {
             "Name": "Pokemon Tabletop Adventures",
-            "Info": ["Creación de Pokemon","Esta web permite crear de forma personalizada a un Pokemon, generando sus datos únicos como su tipo, habilidades, características y movimientos. Además de la posibilidad de modificar estos a voluntad.", "Generación Aleatoria", "Capacidad de generar de forma aleatoria encuentros con Pokemon, pudiendo designar a estos basados en sus hábitats, caracterizas o preferencias a elección del usuario.", "Almacen Interno de Data", "La data es guardada localmente para evitar que uno pierda el acceso a su equipo Pokemon si la pagina es recargada. La información persiste en futuros ingresos a este si se realiza dicho ingreso a través de mismo dispositivo, sin importar cual sea este."],
-            "FullInfo": ["This website significantly contributed to my personal development and especially led me to use React. The use of this library and its functions made the creation of the website possible.", "This website features a system for creating Pokémon based on a popular tabletop role-playing game known as Pokémon Tabletop Adventures (https://linktr.ee/PokemonTabletopAdventures3). The purpose of creating this site was simple: in my personal opinion, it was an excellent system, but also a very challenging one to implement.", "Many factors, such as the abundance of Pokémon, the need to consider complete teams, and the difficulty of generating interesting encounters when one has to sift through more than 100 pages of content to find what they want, led to the creation of this website where users can easily generate encounters and have their own team always at hand (and even research future Pokémon of interest)."],
-            "Guide": ["The website currently has two functional sections: 'Pokémon Team' and 'Pokémon Encounter.'", "The first allows players to access a list of Pokémon, ideally designed to limit teams to six, but there is an option to expand the number of Pokémon using a button at the bottom of the page. The second section is intended for GMs, providing an easy alternative for creating encounters.", "While all Pokémon are created in their base forms, it is possible to specify their evolutionary stage, whether they are legendary or not, and it even allows searching by environment, nature, or other factors."],
+            "Info": [
+                "Creación de Pokemon",
+                "Esta web permite crear de forma personalizada a un Pokemon, generando sus datos únicos como su tipo, habilidades, características y movimientos. Además de la posibilidad de modificar estos a voluntad.",
+                "Generación Aleatoria",
+                "Capacidad de generar de forma aleatoria encuentros con Pokemon, pudiendo designar a estos basados en sus hábitats, caracterizas o preferencias a elección del usuario.",
+                "Almacen Interno de Data",
+                "La data es guardada localmente para evitar que uno pierda el acceso a su equipo Pokemon si la pagina es recargada. La información persiste en futuros ingresos a este si se realiza dicho ingreso a través de mismo dispositivo, sin importar cual sea este."
+            ],
+            "FullInfo": [
+                "This website significantly contributed to my personal development and especially led me to use React. The use of this library and its functions made the creation of the website possible.",
+                "This website features a system for creating Pokémon based on a popular tabletop role-playing game known as Pokémon Tabletop Adventures (https://linktr.ee/PokemonTabletopAdventures3). The purpose of creating this site was simple: in my personal opinion, it was an excellent system, but also a very challenging one to implement.",
+                "Many factors, such as the abundance of Pokémon, the need to consider complete teams, and the difficulty of generating interesting encounters when one has to sift through more than 100 pages of content to find what they want, led to the creation of this website where users can easily generate encounters and have their own team always at hand (and even research future Pokémon of interest)."
+            ],
+            "Guide": [
+                "The website currently has two functional sections: 'Pokémon Team' and 'Pokémon Encounter.'",
+                "The first allows players to access a list of Pokémon, ideally designed to limit teams to six, but there is an option to expand the number of Pokémon using a button at the bottom of the page. The second section is intended for GMs, providing an easy alternative for creating encounters.",
+                "While all Pokémon are created in their base forms, it is possible to specify their evolutionary stage, whether they are legendary or not, and it even allows searching by environment, nature, or other factors."
+            ],
             "Link": "https://rodrigo92hw.github.io/pta-generator/",
             "Github": "ProjectGithub",
-            "Image": ["https://i.imgur.com/3RrV0zI.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
+            "Image": [
+                "https://i.imgur.com/3RrV0zI.png",
+                "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "https://i.imgur.com/Lf7z7My.png"
+            ]
         },
         {
             "Name": "Reactivities",
-            "Info": ["Red Social", "Funciones propias de red social, acceso a eventos y creación de los mismos, posibilidad de crear usuarios, agregar estos a favoritos, además de poder seguir los eventos propios, en los que se participa o los que se tiene interés en participar.", "Almacen de Data en Linea", "La información es subida a una base de datos y persiste en distintos dispositivos, la información de usuarios es cifrada y persiste si este ha ingresado anteriormente al sitio, pudiendo ingresar desde diferentes dispositivos al mismo tiempo.", "Chat y Updates en Vivo", "Posibilidad de chatear con otros usuarios en tiempo real, las conversaciones persisten en el sitio y pueden ser borradas por el usuario que las creo. La App actualiza la data guardada en esta de forma constante de manera que, los cambios son sentidos en vivo por sus usuarios."],
-            "FullInfo": ["Este proyectó llamado reactivities fue creado a partir de cursos de Udemy las cuales inicié a fines del 2023 y concluí a principios del 2024.", "En este se crea una pagina web a modo red social como lo es Facebook, X y las demás redes sociales similares, en parte este proyectó fue encarado por mi voluntad de aprender mas seriamente como era el desarrollo web y en especial con React, y en este caso, guiadas por un profesor que enseñase lección a lección.", "Este proyectó me sirvió para aumentar mis conocimientos de React y darme a conocer elementos muy básicos que desconocía, como son la estructura de un proyectó, cifrados de seguridad y también el uso de diversas librerías como MobX, SignalR entre otros, para facilitar tareas."],
-            "Guide": ["Esta es una web compleja, con una pagina donde uno aterriza que permite la creación o ingreso de usuarios, y una vez dentro lleva a una sección donde se encuentren una serie de eventos o actividades, uno puede explorar actividades creadas por otros usuarios, comentar en las mismas, seguir a estos y demás funciones típicas de redes sociales.", "Uno también tiene la posibilidad de crear sus propios eventos y organizar estos como se desee, uno puede editar su propio perfil además de poder explorar perfil de otros usuarios y seguir o dejar de seguir a estos. Cualquier tipo de actualización o evento que ocurra en la web es actualizado en tiempo real a los demás usuarios conectados."],
+            "Info": [
+                "Red Social",
+                "Funciones propias de red social, acceso a eventos y creación de los mismos, posibilidad de crear usuarios, agregar estos a favoritos, además de poder seguir los eventos propios, en los que se participa o los que se tiene interés en participar.",
+                "Almacen de Data en Linea",
+                "La información es subida a una base de datos y persiste en distintos dispositivos, la información de usuarios es cifrada y persiste si este ha ingresado anteriormente al sitio, pudiendo ingresar desde diferentes dispositivos al mismo tiempo.",
+                "Chat y Updates en Vivo",
+                "Posibilidad de chatear con otros usuarios en tiempo real, las conversaciones persisten en el sitio y pueden ser borradas por el usuario que las creo. La App actualiza la data guardada en esta de forma constante de manera que, los cambios son sentidos en vivo por sus usuarios."
+            ],
+            "FullInfo": [
+                "Este proyectó llamado reactivities fue creado a partir de cursos de Udemy las cuales inicié a fines del 2023 y concluí a principios del 2024.",
+                "En este se crea una pagina web a modo red social como lo es Facebook, X y las demás redes sociales similares, en parte este proyectó fue encarado por mi voluntad de aprender mas seriamente como era el desarrollo web y en especial con React, y en este caso, guiadas por un profesor que enseñase lección a lección.",
+                "Este proyectó me sirvió para aumentar mis conocimientos de React y darme a conocer elementos muy básicos que desconocía, como son la estructura de un proyectó, cifrados de seguridad y también el uso de diversas librerías como MobX, SignalR entre otros, para facilitar tareas."
+            ],
+            "Guide": [
+                "Esta es una web compleja, con una pagina donde uno aterriza que permite la creación o ingreso de usuarios, y una vez dentro lleva a una sección donde se encuentren una serie de eventos o actividades, uno puede explorar actividades creadas por otros usuarios, comentar en las mismas, seguir a estos y demás funciones típicas de redes sociales.",
+                "Uno también tiene la posibilidad de crear sus propios eventos y organizar estos como se desee, uno puede editar su propio perfil además de poder explorar perfil de otros usuarios y seguir o dejar de seguir a estos. Cualquier tipo de actualización o evento que ocurra en la web es actualizado en tiempo real a los demás usuarios conectados."
+            ],
             "Link": "https://reactivities-course.fly.dev/",
             "Github": "ProjectGithub",
-            "Image": ["https://i.imgur.com/8yYWSLp.png", "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png", "https://i.imgur.com/Lf7z7My.png"]
+            "Image": [
+                "https://i.imgur.com/8yYWSLp.png",
+                "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+                "https://i.imgur.com/Lf7z7My.png"
+            ]
         }
     ],
     "practiceProjects": [
         {
-            "Name": "Core Concepts",
+            "Name": "Conceptos Basicos",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/1.-Core-Concepts"
         },
         {
-            "Name": "Styling Options",
+            "Name": "Opciones de Estilo",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/3.-Styling-Options"
         },
         {
-            "Name": "Error Handling",
+            "Name": "Manejo de Errores",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/4.-Error-Handling"
         },
         {
-            "Name": "Refs and Portals",
+            "Name": "Refs y Portals",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/5.-Refs-and-Portals"
         },
         {
-            "Name": "Context and Reducers",
+            "Name": "Context y Reducers",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/6.-Context-and-Reducers"
         },
         {
-            "Name": "Side Effects and UseEffecs",
+            "Name": "Side Effects y UseEffecs",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/7.-Side-Effects-and-UseEffecs"
         },
         {
-            "Name": "Optimization",
+            "Name": "Optimización",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/8.-React-Optimization"
         },
         {
-            "Name": "Clase Base Components",
+            "Name": "Componentes de Clase",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/9.-Clase-Base-Components"
         },
         {
-            "Name": "Connecting to Database",
+            "Name": "Conectando a Base de Datos",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/10.-Connecting-to-Database"
         },
         {
-            "Name": "Custom Hooks",
+            "Name": "Hooks personalizados",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/11.-Custom-Hooks"
         },
         {
-            "Name": "Forms",
+            "Name": "Formas",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/12.-React-Forms"
         },
@@ -239,44 +309,95 @@
             "Github": "https://github.com/Rodrigo92HW/13.-Redux"
         },
         {
-            "Name": "Redux Deepdive",
+            "Name": "Redux en Profundidad",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/14.-Redux-Deepdive"
         },
         {
-            "Name": "Router Basics",
+            "Name": "Basicos de Router",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/15.-React-Router-Basics"
         },
         {
-            "Name": "Router Deepdive",
+            "Name": "Router en Profundidad",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/16.-React-Router-Deepdive"
         },
         {
-            "Name": "Authentication",
+            "Name": "Autentificación",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/17.-Authentication"
         },
         {
-            "Name": "Apps Deploying",
+            "Name": "Desplegar Apps",
             "Link": "",
             "Github": "https://github.com/Rodrigo92HW/18.-React-Apps-Deploying"
         },
         {
-            "Name": "Query and Tanstack Query",
+            "Name": "Query y Tanstack Query",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/19.-React-Query-and-Tanstack-Query"
         },
         {
-            "Name": "NextJS Intro",
+            "Name": "NextJS Introducción",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/20.-NextJS-Intro"
         },
         {
-            "Name": "NextJS Fullstack",
+            "Name": "Animando React",
             "Link": "",
-            "Github": ""
+            "Github": "https://github.com/Rodrigo92HW/22.-Framer-Motion---Animating-React"
+        },
+        {
+            "Name": "Optimización en Profundidad",
+            "Link": "",
+            "Github": "https://github.com/Rodrigo92HW/23.-Patterns-and-Better-Optimization"
+        },
+        {
+            "Name": "Testing",
+            "Link": "",
+            "Github": "https://github.com/Rodrigo92HW/24.-Testing-React-App"
+        },
+        {
+            "Name": "TypeScript",
+            "Link": "",
+            "Github": "https://github.com/Rodrigo92HW/25.-Typescript"
+        }
+    ],
+    "experience": [
+        {
+            "Position": "Ayudante Técnico y Vendedor",
+            "WorkPlace" : "Farmacia Harispe - Concepción del Uruguay",
+            "Entry": "Febrero 2024",
+            "Exit": "Actualidad",
+            "Content": [
+                "Trabaje como vendedor y distribuidor de los medicamentos otorgados tanto a particulares como aquellos necesarios para las obras sociales.",
+                "Contribuí en la instalación y mantenimiento de equipos y sistemas de trabajo. Desarrollo de Excel para gestión de tareas y otros elementos necesarios para la gestion.",
+                "Realicé tareas de mensajería y asistencia durante jornadas de trabajo de 24 horas, que se llevaban a cabo mensualmente."
+            ]
+        },
+        {
+            "Position": "Desarrollador Jr.",
+            "WorkPlace" : "Noni Games - Capital Federal",
+            "Entry": "Enero 2022",
+            "Exit": "Enero 2024",
+            "Content": [
+                "Actúe como desarrollador de Unity y asistí al resto de mi equipo con la creación de modelos 3D creados en Blender, y su posterior incorporación en el proyecto.",
+                "Participe en la creación de un juego que obtuvo grandes menciones y halagos en el festival de Programación de Córdoba.",
+                "Actue como desarrollador de Unity y asisti en el proceso creativo, junto con la elaboración de ideas que traerían adelante el diseño de los niveles de este projecto.",
+                "Participe en eventos de la ciudad de Buenos Aires y concursos junto al resto de mi equipo."
+            ]
+        },
+        {
+            "Position": "Encargado y Vendedor",
+            "WorkPlace" : "Holbox - Capital Federal",
+            "Entry": "Febrero 2023",
+            "Exit": "Febrero 2024",
+            "Content": [
+                "Encargado de Comercio y Asistencia Técnica en local de bebidas.",
+                "Ostente el cargo de supervisor y encargado general de la sucursal, quedando en mis manos el control de personal, stock y demás tareas administrativas que requieran de mi control.",
+                "Trabaje en venta al consumidor, manejo de caja y demás tareas que mi posición requiere."
+            ]
         }
     ]
 }
