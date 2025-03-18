@@ -175,8 +175,23 @@
     ],
     "certifications": [
         {
-            "Name": "Desarrollo Web Flex",
+            "Name": "Web Flex Development",
             "Image": "https://i.imgur.com/Lf7z7My.png",
+            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+        },
+        {
+            "Name": "JavaScript Flex",
+            "Image": "https://i.imgur.com/gQpndHP.png",
+            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+        },
+        {
+            "Name": "ReactJS",
+            "Image": "https://i.imgur.com/V7mYita.png",
+            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+        },
+        {
+            "Name": "Backend I",
+            "Image": "https://i.imgur.com/5sJ6cZ7.png",
             "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
         },
         {
