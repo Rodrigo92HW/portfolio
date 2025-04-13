@@ -1,423 +1,483 @@
 {
-    "extras": {
-        "Header": [
-            "Principal",
-            "Projectos"
-        ],
-        "Footer": [
-            "Contacto",
-            "(+54) 3442-644915",
-            "rodrigo92hw@gmail.com",
-            "https://github.com/Rodrigo92HW",
-            "https://www.linkedin.com/in/rodrigo-harispe/"
-        ],
-        "Error": [
-            "Parece que se produjo un error",
-            "Volver a página principal"
-        ],
-        "Study": [
-            "Estudios",
-            "En esta sección se encuentran listados los diferentes estudios, cursos especiales que haya tomado ademas de información de las diferentes academias a las que he asistido.",
-            "Certificados",
-            "Aqui se encuentran los certificados de los cursos o estudios concluidos junto a los enlaces para acceder directamente a estos."
-        ],
-        "Skill": [
-            "Habilidades",
-            "En esta sección se encuentran los diferentes conocimientos adquiridos, varios conocidos con profundidad y alguno de los cuales posee al menos buenas bases sobre estos."
-        ],
-        "Experience" : [
-            "Experiencia",
-            "En en sección se encuentra los diferentes trabajos que he tomado a lo largo de los años."
-        ],
-        "Project": [
-            "Projectos",
-            "En esta sección se encuentran diversos projectos que he realizado o bien por un interes o amor personal, o para poder aprender aquellas areas en las me encuentro más interesado."
-        ],
-        "ProjectPage": [
-            "Projectos",
-            "Descripción",
-            "Guia de Uso",
-            "Practicas",
-            "Aqui se encuentran los diferentes projectos de practica que he realizado como parte de todas las lecciones tomadas. Algunos de estos poseen enlance pero en su mayoria son projectos que se encuentran en Github para poder examinar las bases conocidas, ademas del esfuerzo realizado para aprender estos."
-        ]
-    },
-    "personal": {
-        "Name": "Rodrigo Harispe",
-        "Image": "https://i.imgur.com/1YfjvnL.png",
-        "Intro": "Un entusiasta de la programación en busca de oportunidades para aplicar y desarrollar mis habilidades.",
-        "FullIntro": "Desde que descubrí el mundo de la programación me apasionó de todo lo que encontré en eDesde entonces, he completado numerosos cursos en línea y estoy actualmente cursando una carrera en programacióEstoy ansioso por encontrar una oportunidad que me permita poner en práctica lo aprendido y contribuir a un equipo o proyecto.",
-        "Born": "26/06/1992",
-        "City": "Argentina, CABA (Recoleta)"
-    },
-    "education": [
-        {
-            "Name": "CoderHouse",
-            "Image": "https://i.imgur.com/LbHOiMw.jpeg",
-            "Title": "Carrera",
-            "GPA": "-",
-            "Entry": "Marzo 2024",
-            "Exit": "Cursando...",
-            "Info": "En esta carrera te desarrollarás desde cero como Full Stack Developer. Aprenderás a crear un sitio web sumergiéndote en las mejores prácticas del diseño web responsive, trabajando con HTML y CSS. Asimismo, sabrás cómo programar con Javascript, agregando interactividad y dinamismo a tus proyectos. Además, conocerás el framework React JS, que te permitirá realizar sitios más complejos, dinámicos y escalables. En relación a Backend, aprenderás a desarrollar aplicaciones modernas con Node.js y MongoDB. Programarás en Javascript del lado del servidor aplicando técnicas asincrónicas. Además, podrás integrar un sistema de autenticación y autorización para gestionar usuarios de forma segura. Finalmente, aprenderás a dominar conceptos avanzados sobre el desarrollo backend en Node.js, abordando una amplia gama de temas. Desde mocks hasta optimización con normalización, explorarás versionado, gestión de paquetes, logs, debug, y profiling para optimizar el rendimiento.",
-            "Link": "https://www.coderhouse.com/ar/"
-        },
-        {
-            "Name": "Udemy",
-            "Image": "https://i.imgur.com/tJ5yXGO.png",
-            "Title": "Cursos",
-            "GPA": "-",
-            "Entry": "Febrero 2020",
-            "Exit": "Actualidad",
-            "Info": "Plataforma de aprendizaje en línea que ofrece una amplia variedad de cursos sobre diversos temas, desde programación y diseño hasta desarrollo personal y negocios. Los cursos son creados por instructores de todo el mundo, lo que permite a los estudiantes acceder a contenido diverso y especializado. Udemy permite a los usuarios aprender a su propio ritmo, con materiales que incluyen videos, artículos y ejercicios prácticos.",
-            "Link": "https://www.udemy.com/"
-        },
-        {
-            "Name": "Universidad Tecnológica Nacional",
-            "Image": "https://i.imgur.com/Rn5fOZq.png",
-            "Title": "Tecnicatura",
-            "GPA": "8.4",
-            "Entry": "Marzo 2021",
-            "Exit": "Febrero 2023 (Abandonado)",
-            "Info": "La Universidad Tecnológica Nacional (UTN) es una institución pública argentina dedicada a la educación superior en ingeniería y tecnología. Fundada en 1959, ofrece carreras de grado y posgrado en diversas especialidades, como ingeniería civil, ingeniería en sistemas, e ingeniería electrónica. Su enfoque práctico y vinculación con la industria preparan a los estudiantes para los desafíos del mercado laboral. Con múltiples facultades en todo el país, la UTN es un referente en educación técnica en Argentina.",
-            "Link": "https://www.utn.edu.ar/es/"
-        },
-        {
-            "Name": "Colegio Sagrado Corazón de Jesús",
-            "Image": "https://i.imgur.com/MnswGFQ.png",
-            "Title": "Bachiller en Ciencias Sociales",
-            "GPA": "9.2",
-            "Entry": "Febrero 2004",
-            "Exit": "Diciembre 2010",
-            "Info": "El Colegio Sagrado Corazón de Jesús es una institución educativa  reconocida por su enfoque en la formación integral de los estudiantes. Ofrece educación desde nivel inicial hasta secundario, combinando formación académica con valores cristianos y un fuerte compromiso con la comunidad. Su metodología incluye actividades pedagógicas diversificadas y un ambiente que promueve el desarrollo personal y social, preparando a los alumnos para enfrentar los desafíos del futuro.",
-            "Link": "https://paginawebsagrado.wixsite.com/sagrado"
-        }
+  "extras": {
+    "Header": ["Principal", "Projectos"],
+    "Footer": [
+      "Contacto",
+      "(+54) 3442-644915",
+      "rodrigo92hw@gmail.com",
+      "https://github.com/Rodrigo92HW",
+      "https://www.linkedin.com/in/rodrigo-harispe/"
     ],
-    "skills": [
-        {
-            "Name": "HTML",
-            "Image": "https://i.imgur.com/a2TKrDp.png",
-            "Info": "Estructura básica de páginas web."
-        },
-        {
-            "Name": "CSS",
-            "Image": "https://i.imgur.com/UHvsQ70.png",
-            "Info": "Estilos y diseño de páginas web."
-        },
-        {
-            "Name": "JavaScript",
-            "Image": "https://i.imgur.com/3NV2531.png",
-            "Info": "Interactividad y programación en la web."
-        },
-        {
-            "Name": "ReactJS",
-            "Image": "https://i.imgur.com/rVDGZKI.png",
-            "Info": "Biblioteca para construir interfaces de usuario."
-        },
-        {
-            "Name": "C#",
-            "Image": "https://i.imgur.com/eVpx8C2.png",
-            "Info": "Lenguaje de programación orientado a objetos."
-        },
-        {
-            "Name": ".Net Core",
-            "Image": "https://i.imgur.com/21tNgCI.png",
-            "Info": "Framework para aplicaciones modernas."
-        },
-        {
-            "Name": "TypeScript",
-            "Image": "https://i.imgur.com/0pO14GB.png",
-            "Info": "Superset de JavaScript con tipado estático."
-        },
-        {
-            "Name": "Unity",
-            "Image": "https://i.imgur.com/GqnzNev.png",
-            "Info": "Motor de desarrollo para videojuegos."
-        },
-        {
-            "Name": "Sass",
-            "Image": "https://i.imgur.com/0WJbKn4.png",
-            "Info": "Preprocesador CSS para estilos más eficientes."
-        },
-        {
-            "Name": "XAML",
-            "Image": "https://i.imgur.com/zEdYQD6.png",
-            "Info": "Lenguaje de marcado para estructurar datos."
-        },
-        {
-            "Name": "Redux",
-            "Image": "https://i.imgur.com/siPIYvi.png",
-            "Info": "Gestor de estado predecible para aplicaciones JavaScript."
-        },
-        {
-            "Name": "NodeJS",
-            "Image": "https://i.imgur.com/ZFnnOas.png",
-            "Info": "Entorno de ejecución para JavaScript en servidor."
-        },
-        {
-            "Name": "SQLite",
-            "Image": "https://i.imgur.com/dcIHwJF.png",
-            "Info": "Base de datos ligera y fácil de usar."
-        },
-        {
-            "Name": "Español",
-            "Image": "https://i.imgur.com/Aa04QM2.png",
-            "Info": "Lengua materna y fluidez en comunicación."
-        },
-        {
-            "Name": "Ingles",
-            "Image": "https://i.imgur.com/OmDPn9Z.png",
-            "Info": "Competencia avanzada en lectura y escritura."
-        },
-        {
-            "Name": "Excel",
-            "Image": "https://i.imgur.com/8nnGnvo.png",
-            "Info": "Herramienta para análisis y gestión de datos."
-        }
+    "Error": ["Parece que se produjo un error", "Volver a página principal"],
+    "Study": [
+      "Estudios",
+      "En esta sección se encuentran listados los diferentes estudios, cursos especiales que haya tomado ademas de información de las diferentes academias a las que he asistido.",
+      "Certificados",
+      "Aqui se encuentran los certificados de los cursos o estudios concluidos junto a los enlaces para acceder directamente a estos."
     ],
-    "certifications": [
-        {
-            "Name": "Desarrollo Web Flex",
-            "Image": "https://i.imgur.com/Lf7z7My.png",
-            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
-        },
-        {
-            "Name": "JavaScript Flex",
-            "Image": "https://i.imgur.com/gQpndHP.png",
-            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
-        },
-        {
-            "Name": "ReactJS",
-            "Image": "https://i.imgur.com/V7mYita.png",
-            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
-        },
-        {
-            "Name": "Backend I",
-            "Image": "https://i.imgur.com/5sJ6cZ7.png",
-            "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
-        },
-        {
-            "Name": "React",
-            "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-4df4f8a7-05f0-43d1-9808-00b2208a4b90.jpg?v=1730413274000",
-            "Link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
-        },
-        {
-            "Name": ".Net Core y ReactJS",
-            "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-2bccab84-a8ef-4069-9a7d-23d035c227b0.jpg?v=1724096423000",
-            "Link": "https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/"
-        },
-        {
-            "Name": "C#",
-            "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-478c02b5-3e80-45b2-aebd-0538bbbdf449.jpg?v=1725497343000",
-            "Link": "https://www.udemy.com/course/complete-csharp-masterclass/"
-        }
+    "Skill": [
+      "Habilidades",
+      "En esta sección se encuentran los diferentes conocimientos adquiridos, varios conocidos con profundidad y alguno de los cuales posee al menos buenas bases sobre estos."
     ],
-    "projects": [
-        {
-            "Name": "Pokemon Tabletop Adventures",
-            "Info": [
-                "Creación de Pokemon",
-                "Esta web permite crear de forma personalizada a un Pokemon, generando sus datos únicos como su tipo, habilidades, características y movimientos. Además de la posibilidad de modificar estos a voluntad.",
-                "Generación Aleatoria",
-                "Capacidad de generar de forma aleatoria encuentros con Pokemon, pudiendo designar a estos basados en sus hábitats, caracterizas o preferencias a elección del usuario.",
-                "Almacen Interno de Data",
-                "La data es guardada localmente para evitar que uno pierda el acceso a su equipo Pokemon si la pagina es recargada. La información persiste en futuros ingresos a este si se realiza dicho ingreso a través de mismo dispositivo, sin importar cual sea este."
-            ],
-            "FullInfo": [
-                "This website significantly contributed to my personal development and especially led me to use React. The use of this library and its functions made the creation of the website possible.",
-                "This website features a system for creating Pokémon based on a popular tabletop role-playing game known as Pokémon Tabletop Adventures (https://linktr.ee/PokemonTabletopAdventures3). The purpose of creating this site was simple: in my personal opinion, it was an excellent system, but also a very challenging one to implement.",
-                "Many factors, such as the abundance of Pokémon, the need to consider complete teams, and the difficulty of generating interesting encounters when one has to sift through more than 100 pages of content to find what they want, led to the creation of this website where users can easily generate encounters and have their own team always at hand (and even research future Pokémon of interest)."
-            ],
-            "Guide": [
-                "The website currently has two functional sections: 'Pokémon Team' and 'Pokémon Encounter.'",
-                "The first allows players to access a list of Pokémon, ideally designed to limit teams to six, but there is an option to expand the number of Pokémon using a button at the bottom of the page. The second section is intended for GMs, providing an easy alternative for creating encounters.",
-                "While all Pokémon are created in their base forms, it is possible to specify their evolutionary stage, whether they are legendary or not, and it even allows searching by environment, nature, or other factors."
-            ],
-            "Link": "https://rodrigo92hw.github.io/pta-generator/",
-            "Github": "ProjectGithub",
-            "Image": [
-                "https://i.imgur.com/3RrV0zI.png",
-                "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
-                "https://i.imgur.com/Lf7z7My.png"
-            ]
-        },
-        {
-            "Name": "Reactivities",
-            "Info": [
-                "Red Social",
-                "Funciones propias de red social, acceso a eventos y creación de los mismos, posibilidad de crear usuarios, agregar estos a favoritos, además de poder seguir los eventos propios, en los que se participa o los que se tiene interés en participar.",
-                "Almacen de Data en Linea",
-                "La información es subida a una base de datos y persiste en distintos dispositivos, la información de usuarios es cifrada y persiste si este ha ingresado anteriormente al sitio, pudiendo ingresar desde diferentes dispositivos al mismo tiempo.",
-                "Chat y Updates en Vivo",
-                "Posibilidad de chatear con otros usuarios en tiempo real, las conversaciones persisten en el sitio y pueden ser borradas por el usuario que las creo. La App actualiza la data guardada en esta de forma constante de manera que, los cambios son sentidos en vivo por sus usuarios."
-            ],
-            "FullInfo": [
-                "Este proyectó llamado reactivities fue creado a partir de cursos de Udemy las cuales inicié a fines del 2023 y concluí a principios del 2024.",
-                "En este se crea una pagina web a modo red social como lo es Facebook, X y las demás redes sociales similares, en parte este proyectó fue encarado por mi voluntad de aprender mas seriamente como era el desarrollo web y en especial con React, y en este caso, guiadas por un profesor que enseñase lección a lección.",
-                "Este proyectó me sirvió para aumentar mis conocimientos de React y darme a conocer elementos muy básicos que desconocía, como son la estructura de un proyectó, cifrados de seguridad y también el uso de diversas librerías como MobX, SignalR entre otros, para facilitar tareas."
-            ],
-            "Guide": [
-                "Esta es una web compleja, con una pagina donde uno aterriza que permite la creación o ingreso de usuarios, y una vez dentro lleva a una sección donde se encuentren una serie de eventos o actividades, uno puede explorar actividades creadas por otros usuarios, comentar en las mismas, seguir a estos y demás funciones típicas de redes sociales.",
-                "Uno también tiene la posibilidad de crear sus propios eventos y organizar estos como se desee, uno puede editar su propio perfil además de poder explorar perfil de otros usuarios y seguir o dejar de seguir a estos. Cualquier tipo de actualización o evento que ocurra en la web es actualizado en tiempo real a los demás usuarios conectados."
-            ],
-            "Link": "https://reactivities-course.fly.dev/",
-            "Github": "ProjectGithub",
-            "Image": [
-                "https://i.imgur.com/8yYWSLp.png",
-                "https://www.google.com.ar/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
-                "https://i.imgur.com/Lf7z7My.png"
-            ]
-        }
+    "Experience": [
+      "Experiencia",
+      "En en sección se encuentra los diferentes trabajos que he tomado a lo largo de los años."
     ],
-    "practiceProjects": [
-        {
-            "Name": "Conceptos Basicos",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/1.-Core-Concepts"
-        },
-        {
-            "Name": "Opciones de Estilo",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/3.-Styling-Options"
-        },
-        {
-            "Name": "Manejo de Errores",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/4.-Error-Handling"
-        },
-        {
-            "Name": "Refs y Portals",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/5.-Refs-and-Portals"
-        },
-        {
-            "Name": "Context y Reducers",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/6.-Context-and-Reducers"
-        },
-        {
-            "Name": "Side Effects y UseEffecs",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/7.-Side-Effects-and-UseEffecs"
-        },
-        {
-            "Name": "Optimización",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/8.-React-Optimization"
-        },
-        {
-            "Name": "Componentes de Clase",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/9.-Clase-Base-Components"
-        },
-        {
-            "Name": "Conectando a Base de Datos",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/10.-Connecting-to-Database"
-        },
-        {
-            "Name": "Hooks personalizados",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/11.-Custom-Hooks"
-        },
-        {
-            "Name": "Formas",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/12.-React-Forms"
-        },
-        {
-            "Name": "Redux",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/13.-Redux"
-        },
-        {
-            "Name": "Redux en Profundidad",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/14.-Redux-Deepdive"
-        },
-        {
-            "Name": "Basicos de Router",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/15.-React-Router-Basics"
-        },
-        {
-            "Name": "Router en Profundidad",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/16.-React-Router-Deepdive"
-        },
-        {
-            "Name": "Autentificación",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/17.-Authentication"
-        },
-        {
-            "Name": "Desplegar Apps",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/18.-React-Apps-Deploying"
-        },
-        {
-            "Name": "Query y Tanstack Query",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/19.-React-Query-and-Tanstack-Query"
-        },
-        {
-            "Name": "NextJS Introducción",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/20.-NextJS-Intro"
-        },
-        {
-            "Name": "Animando React",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/22.-Framer-Motion---Animating-React"
-        },
-        {
-            "Name": "Optimización en Profundidad",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/23.-Patterns-and-Better-Optimization"
-        },
-        {
-            "Name": "Testing",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/24.-Testing-React-App"
-        },
-        {
-            "Name": "TypeScript",
-            "Link": "",
-            "Github": "https://github.com/Rodrigo92HW/25.-Typescript"
-        }
+    "Project": [
+      "Projectos",
+      "En esta sección se encuentran diversos projectos que he realizado o bien por un interes o amor personal, o para poder aprender aquellas areas en las me encuentro más interesado."
     ],
-    "experience": [
-        {
-            "Position": "Ayudante Técnico y Vendedor",
-            "WorkPlace" : "Farmacia Harispe - Concepción del Uruguay",
-            "Entry": "Febrero 2024",
-            "Exit": "Actualidad",
-            "Content": [
-                "Trabaje como vendedor y distribuidor de los medicamentos otorgados tanto a particulares como aquellos necesarios para las obras sociales.",
-                "Contribuí en la instalación y mantenimiento de equipos y sistemas de trabajo. Desarrollo de Excel para gestión de tareas y otros elementos necesarios para la gestion.",
-                "Realicé tareas de mensajería y asistencia durante jornadas de trabajo de 24 horas, que se llevaban a cabo mensualmente."
-            ]
-        },
-        {
-            "Position": "Desarrollador Jr.",
-            "WorkPlace" : "Noni Games - Capital Federal",
-            "Entry": "Enero 2022",
-            "Exit": "Enero 2024",
-            "Content": [
-                "Actúe como desarrollador de Unity y asistí al resto de mi equipo con la creación de modelos 3D creados en Blender, y su posterior incorporación en el proyecto.",
-                "Participe en la creación de un juego que obtuvo grandes menciones y halagos en el festival de Programación de Córdoba.",
-                "Actue como desarrollador de Unity y asisti en el proceso creativo, junto con la elaboración de ideas que traerían adelante el diseño de los niveles de este projecto.",
-                "Participe en eventos de la ciudad de Buenos Aires y concursos junto al resto de mi equipo."
-            ]
-        },
-        {
-            "Position": "Encargado y Vendedor",
-            "WorkPlace" : "Holbox - Capital Federal",
-            "Entry": "Febrero 2023",
-            "Exit": "Febrero 2024",
-            "Content": [
-                "Encargado de Comercio y Asistencia Técnica en local de bebidas.",
-                "Ostente el cargo de supervisor y encargado general de la sucursal, quedando en mis manos el control de personal, stock y demás tareas administrativas que requieran de mi control.",
-                "Trabaje en venta al consumidor, manejo de caja y demás tareas que mi posición requiere."
-            ]
-        }
+    "ProjectPage": [
+      "Projectos",
+      "Descripción",
+      "Guia de Uso",
+      "Practicas",
+      "Aqui se encuentran los diferentes projectos de practica que he realizado como parte de todas las lecciones tomadas. Algunos de estos poseen enlance pero en su mayoria son projectos que se encuentran en Github para poder examinar las bases conocidas, ademas del esfuerzo realizado para aprender estos."
     ]
+  },
+  "personal": {
+    "Name": "Rodrigo Harispe",
+    "Image": "https://i.imgur.com/1YfjvnL.png",
+    "Intro": "Un entusiasta de la programación en busca de oportunidades para aplicar y desarrollar mis habilidades.",
+    "FullIntro": "Desde que descubrí el mundo de la programación me apasionó de todo lo que encontré en eDesde entonces, he completado numerosos cursos en línea y estoy actualmente cursando una carrera en programacióEstoy ansioso por encontrar una oportunidad que me permita poner en práctica lo aprendido y contribuir a un equipo o proyecto.",
+    "Born": "26/06/1992",
+    "City": "Argentina, CABA (Recoleta)"
+  },
+  "education": [
+    {
+      "Name": "CoderHouse",
+      "Image": "https://i.imgur.com/LbHOiMw.jpeg",
+      "Title": "Carrera",
+      "GPA": "-",
+      "Entry": "Marzo 2024",
+      "Exit": "Cursando...",
+      "Info": "En esta carrera te desarrollarás desde cero como Full Stack Developer. Aprenderás a crear un sitio web sumergiéndote en las mejores prácticas del diseño web responsive, trabajando con HTML y CSS. Asimismo, sabrás cómo programar con Javascript, agregando interactividad y dinamismo a tus proyectos. Además, conocerás el framework React JS, que te permitirá realizar sitios más complejos, dinámicos y escalables. En relación a Backend, aprenderás a desarrollar aplicaciones modernas con Node.js y MongoDB. Programarás en Javascript del lado del servidor aplicando técnicas asincrónicas. Además, podrás integrar un sistema de autenticación y autorización para gestionar usuarios de forma segura. Finalmente, aprenderás a dominar conceptos avanzados sobre el desarrollo backend en Node.js, abordando una amplia gama de temas. Desde mocks hasta optimización con normalización, explorarás versionado, gestión de paquetes, logs, debug, y profiling para optimizar el rendimiento.",
+      "Link": "https://www.coderhouse.com/ar/"
+    },
+    {
+      "Name": "Udemy",
+      "Image": "https://i.imgur.com/tJ5yXGO.png",
+      "Title": "Cursos",
+      "GPA": "-",
+      "Entry": "Febrero 2020",
+      "Exit": "Actualidad",
+      "Info": "Plataforma de aprendizaje en línea que ofrece una amplia variedad de cursos sobre diversos temas, desde programación y diseño hasta desarrollo personal y negocios. Los cursos son creados por instructores de todo el mundo, lo que permite a los estudiantes acceder a contenido diverso y especializado. Udemy permite a los usuarios aprender a su propio ritmo, con materiales que incluyen videos, artículos y ejercicios prácticos.",
+      "Link": "https://www.udemy.com/"
+    },
+    {
+      "Name": "Universidad Tecnológica Nacional",
+      "Image": "https://i.imgur.com/Rn5fOZq.png",
+      "Title": "Tecnicatura",
+      "GPA": "8.4",
+      "Entry": "Marzo 2021",
+      "Exit": "Febrero 2023 (Abandonado)",
+      "Info": "La Universidad Tecnológica Nacional (UTN) es una institución pública argentina dedicada a la educación superior en ingeniería y tecnología. Fundada en 1959, ofrece carreras de grado y posgrado en diversas especialidades, como ingeniería civil, ingeniería en sistemas, e ingeniería electrónica. Su enfoque práctico y vinculación con la industria preparan a los estudiantes para los desafíos del mercado laboral. Con múltiples facultades en todo el país, la UTN es un referente en educación técnica en Argentina.",
+      "Link": "https://www.utn.edu.ar/es/"
+    },
+    {
+      "Name": "Colegio Sagrado Corazón de Jesús",
+      "Image": "https://i.imgur.com/MnswGFQ.png",
+      "Title": "Bachiller en Ciencias Sociales",
+      "GPA": "9.2",
+      "Entry": "Febrero 2004",
+      "Exit": "Diciembre 2010",
+      "Info": "El Colegio Sagrado Corazón de Jesús es una institución educativa  reconocida por su enfoque en la formación integral de los estudiantes. Ofrece educación desde nivel inicial hasta secundario, combinando formación académica con valores cristianos y un fuerte compromiso con la comunidad. Su metodología incluye actividades pedagógicas diversificadas y un ambiente que promueve el desarrollo personal y social, preparando a los alumnos para enfrentar los desafíos del futuro.",
+      "Link": "https://paginawebsagrado.wixsite.com/sagrado"
+    }
+  ],
+  "skills": [
+    {
+      "Name": "HTML",
+      "Image": "https://i.imgur.com/a2TKrDp.png",
+      "Info": "Estructura básica de páginas web."
+    },
+    {
+      "Name": "CSS",
+      "Image": "https://i.imgur.com/UHvsQ70.png",
+      "Info": "Estilos y diseño de páginas web."
+    },
+    {
+      "Name": "JavaScript",
+      "Image": "https://i.imgur.com/3NV2531.png",
+      "Info": "Interactividad y programación en la web."
+    },
+    {
+      "Name": "ReactJS",
+      "Image": "https://i.imgur.com/rVDGZKI.png",
+      "Info": "Biblioteca para construir interfaces de usuario."
+    },
+    {
+      "Name": "C#",
+      "Image": "https://i.imgur.com/eVpx8C2.png",
+      "Info": "Lenguaje de programación orientado a objetos."
+    },
+    {
+      "Name": ".Net Core",
+      "Image": "https://i.imgur.com/21tNgCI.png",
+      "Info": "Framework para aplicaciones modernas."
+    },
+    {
+      "Name": "TypeScript",
+      "Image": "https://i.imgur.com/0pO14GB.png",
+      "Info": "Superset de JavaScript con tipado estático."
+    },
+    {
+      "Name": "Unity",
+      "Image": "https://i.imgur.com/GqnzNev.png",
+      "Info": "Motor de desarrollo para videojuegos."
+    },
+    {
+      "Name": "Sass",
+      "Image": "https://i.imgur.com/0WJbKn4.png",
+      "Info": "Preprocesador CSS para estilos más eficientes."
+    },
+    {
+      "Name": "XAML",
+      "Image": "https://i.imgur.com/zEdYQD6.png",
+      "Info": "Lenguaje de marcado para estructurar datos."
+    },
+    {
+      "Name": "Redux",
+      "Image": "https://i.imgur.com/siPIYvi.png",
+      "Info": "Gestor de estado predecible para aplicaciones JavaScript."
+    },
+    {
+      "Name": "NodeJS",
+      "Image": "https://i.imgur.com/ZFnnOas.png",
+      "Info": "Entorno de ejecución para JavaScript en servidor."
+    },
+    {
+      "Name": "SQLite",
+      "Image": "https://i.imgur.com/dcIHwJF.png",
+      "Info": "Base de datos ligera y fácil de usar."
+    },
+    {
+      "Name": "Español",
+      "Image": "https://i.imgur.com/Aa04QM2.png",
+      "Info": "Lengua materna y fluidez en comunicación."
+    },
+    {
+      "Name": "Ingles",
+      "Image": "https://i.imgur.com/OmDPn9Z.png",
+      "Info": "Competencia avanzada en lectura y escritura."
+    },
+    {
+      "Name": "Excel",
+      "Image": "https://i.imgur.com/8nnGnvo.png",
+      "Info": "Herramienta para análisis y gestión de datos."
+    }
+  ],
+  "certifications": [
+    {
+      "Name": "Desarrollo Web Flex",
+      "Image": "https://i.imgur.com/Lf7z7My.png",
+      "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+    },
+    {
+      "Name": "JavaScript Flex",
+      "Image": "https://i.imgur.com/gQpndHP.png",
+      "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+    },
+    {
+      "Name": "ReactJS",
+      "Image": "https://i.imgur.com/V7mYita.png",
+      "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+    },
+    {
+      "Name": "Backend I",
+      "Image": "https://i.imgur.com/5sJ6cZ7.png",
+      "Link": "https://www.coderhouse.com/ar/online/carrera-desarrollo-fullstack"
+    },
+    {
+      "Name": "React",
+      "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-4df4f8a7-05f0-43d1-9808-00b2208a4b90.jpg?v=1730413274000",
+      "Link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+    },
+    {
+      "Name": ".Net Core y ReactJS",
+      "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-2bccab84-a8ef-4069-9a7d-23d035c227b0.jpg?v=1724096423000",
+      "Link": "https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/"
+    },
+    {
+      "Name": "C#",
+      "Image": "https://udemy-certificate.s3.amazonaws.com/image/UC-478c02b5-3e80-45b2-aebd-0538bbbdf449.jpg?v=1725497343000",
+      "Link": "https://www.udemy.com/course/complete-csharp-masterclass/"
+    }
+  ],
+  "projects": [
+    {
+      "Name": "Pokemon Tabletop Adventures",
+      "Info": [
+        "Creación de Pokemon",
+        "Esta web permite crear de forma personalizada a un Pokemon, generando sus datos únicos como su tipo, habilidades, características y movimientos. Además de la posibilidad de modificar estos a voluntad.",
+        "Generación Aleatoria",
+        "Capacidad de generar de forma aleatoria encuentros con Pokemon, pudiendo designar a estos basados en sus hábitats, caracterizas o preferencias a elección del usuario.",
+        "Almacen Interno de Data",
+        "La data es guardada localmente para evitar que uno pierda el acceso a su equipo Pokemon si la pagina es recargada. La información persiste en futuros ingresos a este si se realiza dicho ingreso a través de mismo dispositivo, sin importar cual sea este."
+      ],
+      "FullInfo": [
+        "This website contributed significantly to my personal development and, in particular, led me to use React. Utilizing this library and its features made the creation of the site possible.",
+        "This site features a system to create Pokémon based on a popular tabletop RPG known as Pokémon Tabletop Adventures (https://linktr.ee/PokemonTabletopAdventures3). The purpose behind creating this site was simple: in my opinion, it’s an excellent system, but also a very challenging one to implement.",
+        "Many factors—such as the abundance of Pokémon, the need to consider full teams, and the difficulty of creating engaging encounters when you have to browse through more than 100 pages of content to find what you need—led to the development of this site, where users can easily generate encounters and always have their team on hand (or even research future Pokémon of interest)."
+      ],
+      "Guide": [
+        "The website currently has two functional sections: 'Pokémon Team' and 'Pokémon Encounter'.",
+        "The first allows players to access a Pokémon list, ideally limited to six members per team, though there’s an option to expand the number of Pokémon using a button at the bottom of the page. The second section is aimed at Game Masters, offering a simple way to create encounters.",
+        "Although all Pokémon are created in their base forms, it is possible to specify their evolution stage, whether they are legendary or not, and even filter by environment, nature, or other factors."
+      ],
+      "Link": "https://rodrigo92hw.github.io/pta-generator/",
+      "Github": "ProjectGithub",
+      "Image": ["https://i.imgur.com/3RrV0zI.png"]
+    },
+    {
+      "Name": "Reactivities",
+      "Info": [
+        "Red Social",
+        "Funciones propias de red social, acceso a eventos y creación de los mismos, posibilidad de crear usuarios, agregar estos a favoritos, además de poder seguir los eventos propios, en los que se participa o los que se tiene interés en participar.",
+        "Almacen de Data en Linea",
+        "La información es subida a una base de datos y persiste en distintos dispositivos, la información de usuarios es cifrada y persiste si este ha ingresado anteriormente al sitio, pudiendo ingresar desde diferentes dispositivos al mismo tiempo.",
+        "Chat y Updates en Vivo",
+        "Posibilidad de chatear con otros usuarios en tiempo real, las conversaciones persisten en el sitio y pueden ser borradas por el usuario que las creo. La App actualiza la data guardada en esta de forma constante de manera que, los cambios son sentidos en vivo por sus usuarios."
+      ],
+      "FullInfo": [
+        "Este proyectó llamado reactivities fue creado a partir de cursos de Udemy las cuales inicié a fines del 2023 y concluí a principios del 2024.",
+        "En este se crea una pagina web a modo red social como lo es Facebook, X y las demás redes sociales similares, en parte este proyectó fue encarado por mi voluntad de aprender mas seriamente como era el desarrollo web y en especial con React, y en este caso, guiadas por un profesor que enseñase lección a lección.",
+        "Este proyectó me sirvió para aumentar mis conocimientos de React y darme a conocer elementos muy básicos que desconocía, como son la estructura de un proyectó, cifrados de seguridad y también el uso de diversas librerías como MobX, SignalR entre otros, para facilitar tareas."
+      ],
+      "Guide": [
+        "Esta es una web compleja, con una pagina donde uno aterriza que permite la creación o ingreso de usuarios, y una vez dentro lleva a una sección donde se encuentren una serie de eventos o actividades, uno puede explorar actividades creadas por otros usuarios, comentar en las mismas, seguir a estos y demás funciones típicas de redes sociales.",
+        "Uno también tiene la posibilidad de crear sus propios eventos y organizar estos como se desee, uno puede editar su propio perfil además de poder explorar perfil de otros usuarios y seguir o dejar de seguir a estos. Cualquier tipo de actualización o evento que ocurra en la web es actualizado en tiempo real a los demás usuarios conectados."
+      ],
+      "Link": "https://reactivities-course.fly.dev/",
+      "Github": "ProjectGithub",
+      "Image": ["https://i.imgur.com/8yYWSLp.png"]
+    },
+    {
+      "Name": "Home Theater",
+      "Info": [
+        "Web simple",
+        "Projecto de desarrollo web, simple y directo, con un diseño sencillo y limpio.",
+        "Practicas de SEO, HTML y CSS",
+        "Manejo de HTML y CSS, web creada con el objetivo de desplegar diversas peliculas, series ademas del despliegue de imagenes y videos de fuentes externas.",
+        "Practicas comunes de CEO, uso de etiquetas y etiquetas meta"
+      ],
+      "FullInfo": [
+        "Esta pagina web esta destinada a la muestra de elementos de entretenimiento, desde peliculas y series, hasta diversos generos de musica y libros pueden encontrarse aqui.",
+        "Posee diversas secciones donde uno puede encontrar diferentes tipos de entretenimiento, desde peliculas y series, hasta libros y musica.",
+        "- Home Page: Esta es la pagina de ingreso del sitio web, aqui se encuentra una breve muestra del contenido que se puede encontrar en las diversas secciones, ademas de el entrenimiento del momento actualizado.",
+        "- Peliculas: Aqui se encuentran peliculas de interes, en la parte superior hay trailers de las ultimas peliculas y en la sección bajo esta se encuentra un ranking de las 12 mejores peliculas del momento.",
+        "- Series: Aqui se encuentran series de interes, en la parte superior hay trailers de las ultimas series y en la sección bajo esta se encuentra un ranking de las 12 mejores series del momento.",
+        "- Musica: Aqui se encuentra la musica del momento junto con las letras de este, mas abajo, podemos encontrar descripciones y recomendaciones de los diversos generos que al ser seleccionado cambian la musica de más arriba.",
+        "- Libros: Aqui se encuentra el libro del momento junto con un resumen de este, mas abajo, podemos encontrar descripciones y recomendaciones de los diversos generos que al ser seleccionado cambian el libro de más arriba."
+      ],
+      "Guide": [
+        "Web de navegación simple, uno puede seleccionar las diferentes pestañas para ver el contenido desplegada en esta."
+      ],
+      "Link": "https://proyecto-61910-nine.vercel.app/pages/series.html",
+      "Github": "https://github.com/Rodrigo92HW/proyecto-61910",
+      "Image": ["https://i.imgur.com/DXw4341.png"]
+    },
+    {
+      "Name": "Movie Theater",
+      "Info": [
+        "Modelo de Cine",
+        "Projecto de utilización de JavaScript que permite la adquisición de entradas para un cine ficticio.",
+        "Uso de JavaScript",
+        "Manejo de Scripts que permiten la compra de entradas, una tienda interna que registra las peliculas seleccionadas, un carrito que permite el seguimiento de las compras calcunado los montos totales a abonar.",
+        "Uso de librerias externas",
+        "Uso de librerias externas como Bootstrap para el diseño de la pagina, y SweetAlert para la creación de alertas y mensajes personalizados."
+      ],
+      "FullInfo": [
+        "Esta pagina web esta destinada a la compra de entradas para funciones de cine, la logica de las butacas no se encuentra realizada pero es posible seleccionar las peliculas y completar los formularios correspondientes.",
+        "Posee dos secciones, una para la seleccion de las peliculas y otra para la compra de entradas.",
+        "- Home Page: Aqui se encuentran peliculas de interes, se encuentra información respecto a su puntuación general ademas de los costes de las entradas, se encuentra tambien botones y un carrito para agregar o quitar peliculas de esta seleccion.",
+        "- Compras: Aqui se encuentran la sección de compras, la posibilidad de, completando un formulario, que las entradas sean entregados a un correo electronico designado.",
+        "Esta tambien consta con noficaciones de compra y alertas de error en caso de que el formulario no sea completado correctamente, empleando la libreria de Sweet Alert para desplegar estas alertas."
+      ],
+      "Guide": [
+        "En la página principal podemos encontrarnos con un listado de peliculas que es dinamicamenta desplegado y actualizado, y cada una de estas posee dos botones, uno que permite agregar la pelicula al carrito y otro que permite reducir la cantidad de entradas de esta.",
+        "Una vez que se han seleccionado las peliculas, uno puede ir a la sección de compras (encontrado al confirmar la compra en el pie de la página), donde se encuentra un formulario que permite la compra de las entradas seleccionadas. Si falta completar alguno de los campos, se desplegará una alerta de error, y si se completa correctamente, se desplegará una alerta de compra exitosa."
+      ],
+      "Link": "https://proyecto-74480-3ero.vercel.app/",
+      "Github": "https://github.com/Rodrigo92HW/proyecto-74480-3ero",
+      "Image": ["https://i.imgur.com/2K93qtt.png"]
+    },
+    {
+      "Name": "Digi-Store",
+      "Info": [
+        "Projecto de E-commerce",
+        "Página web de comercio, permite navegar por diversas categorias, agregar productos al carrito, creando ordenes en un backend, siendo toda la información almacenada en Firebase.",
+        "Uso de React",
+        "Uso de React para la creación de la pagina, y el uso de librerias como React-Router para la navegacion entre las diferentes secciones. Uso de diversas librerias para el despliegue de notificaciones, accesibilidad, carga de las diferentes secciones, y demas.",
+        "Uso de Firebase",
+        "Uso de Firebase para la carga de la data, y el almacenamiento de esta, ademas de la creación de ordenes y el manejo de los carros de usuarios, una vez colocada la orden esta se almacena en la base de datos."
+      ],
+      "FullInfo": [
+        "El proyecto consta de un ecommerce desarrollado con ReactJS, que permite a los usuarios navegar por diferentes categorías de productos, ver detalles de los productos, agregar productos al carrito y realizar compras. La aplicación utiliza Firebase para la gestión de datos y almacenamiento de productos y ordenes.",
+        "El projecto consta con diversas librerias para el manejo de la data, y el despliegue de la misma, ademas de librerias para el manejo de las notificaciones y el diseño de la pagina. Entre las librerias utilizadas se encuentran Firebase, React-Router, SweetAlert, React-Loading, React-Toastify y Bootstrap.",
+        "El uso de Firebase permite la persistencia de la data ante siguientes seciones de la pagina, y el uso de librerias como React-Router permite la navegacion entre las diferentes secciones de la pagina. El uso de librerias como SweetAlert y React-Toastify permiten el despliegue de notificaciones y alertas al usuario, y el uso de librerias como React-Loading permiten el despliegue de loaders mientras se carga la data."
+      ],
+      "Guide": [
+        "En la página principal podemos encontrar la totalidad de los productos que se encuentran a la venta, y en la parte superior de la pagina se encuentran los diferentes botones que permiten navegar entre las diferentes secciones de la pagina en donde los productos se encuentran filtrados por diversas categorias: Electronics, Ropa y Hogar.",
+        "El producto posee dos botones, uno otorga informacion del producto, llevando al usuario a una nueva sección con información adicional, y el otro permite agregar el producto al carrito desplegando una alerta para informar del producto agregado.",
+        "En la esquina superior derecha se encuentra tambien el carrito de compra, los productos agregados se veran en esta, se calculara el total de precio de compra y una vez confirmado se informara de el codigo con el que esta orden fue guardado en la base de datos."
+      ],
+      "Link": "https://digi-store-steel.vercel.app/",
+      "Github": "https://github.com/Rodrigo92HW/ProyectoFinal-Harispe",
+      "Image": ["https://i.imgur.com/ErgYI87.png"]
+    }
+  ],
+  "practiceProjects": [
+    {
+      "Name": "Conceptos Basicos",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/1.-Core-Concepts"
+    },
+    {
+      "Name": "Opciones de Estilo",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/3.-Styling-Options"
+    },
+    {
+      "Name": "Manejo de Errores",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/4.-Error-Handling"
+    },
+    {
+      "Name": "Refs y Portals",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/5.-Refs-and-Portals"
+    },
+    {
+      "Name": "Context y Reducers",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/6.-Context-and-Reducers"
+    },
+    {
+      "Name": "Side Effects y UseEffecs",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/7.-Side-Effects-and-UseEffecs"
+    },
+    {
+      "Name": "Optimización",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/8.-React-Optimization"
+    },
+    {
+      "Name": "Componentes de Clase",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/9.-Clase-Base-Components"
+    },
+    {
+      "Name": "Conectando a Base de Datos",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/10.-Connecting-to-Database"
+    },
+    {
+      "Name": "Hooks personalizados",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/11.-Custom-Hooks"
+    },
+    {
+      "Name": "Formas",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/12.-React-Forms"
+    },
+    {
+      "Name": "Redux",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/13.-Redux"
+    },
+    {
+      "Name": "Redux en Profundidad",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/14.-Redux-Deepdive"
+    },
+    {
+      "Name": "Basicos de Router",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/15.-React-Router-Basics"
+    },
+    {
+      "Name": "Router en Profundidad",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/16.-React-Router-Deepdive"
+    },
+    {
+      "Name": "Autentificación",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/17.-Authentication"
+    },
+    {
+      "Name": "Desplegar Apps",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/18.-React-Apps-Deploying"
+    },
+    {
+      "Name": "Query y Tanstack Query",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/19.-React-Query-and-Tanstack-Query"
+    },
+    {
+      "Name": "NextJS Introducción",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/20.-NextJS-Intro"
+    },
+    {
+      "Name": "Animando React",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/22.-Framer-Motion---Animating-React"
+    },
+    {
+      "Name": "Optimización en Profundidad",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/23.-Patterns-and-Better-Optimization"
+    },
+    {
+      "Name": "Testing",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/24.-Testing-React-App"
+    },
+    {
+      "Name": "TypeScript",
+      "Link": "",
+      "Github": "https://github.com/Rodrigo92HW/25.-Typescript"
+    }
+  ],
+  "experience": [
+    {
+      "Position": "Ayudante Técnico y Vendedor",
+      "WorkPlace": "Farmacia Harispe - Concepción del Uruguay",
+      "Entry": "Febrero 2024",
+      "Exit": "Actualidad",
+      "Content": [
+        "Trabaje como vendedor y distribuidor de los medicamentos otorgados tanto a particulares como aquellos necesarios para las obras sociales.",
+        "Contribuí en la instalación y mantenimiento de equipos y sistemas de trabajo. Desarrollo de Excel para gestión de tareas y otros elementos necesarios para la gestion.",
+        "Realicé tareas de mensajería y asistencia durante jornadas de trabajo de 24 horas, que se llevaban a cabo mensualmente."
+      ]
+    },
+    {
+      "Position": "Desarrollador Jr.",
+      "WorkPlace": "Noni Games - Capital Federal",
+      "Entry": "Enero 2022",
+      "Exit": "Enero 2024",
+      "Content": [
+        "Actúe como desarrollador de Unity y asistí al resto de mi equipo con la creación de modelos 3D creados en Blender, y su posterior incorporación en el proyecto.",
+        "Participe en la creación de un juego que obtuvo grandes menciones y halagos en el festival de Programación de Córdoba.",
+        "Actue como desarrollador de Unity y asisti en el proceso creativo, junto con la elaboración de ideas que traerían adelante el diseño de los niveles de este projecto.",
+        "Participe en eventos de la ciudad de Buenos Aires y concursos junto al resto de mi equipo."
+      ]
+    },
+    {
+      "Position": "Encargado y Vendedor",
+      "WorkPlace": "Holbox - Capital Federal",
+      "Entry": "Febrero 2023",
+      "Exit": "Febrero 2024",
+      "Content": [
+        "Encargado de Comercio y Asistencia Técnica en local de bebidas.",
+        "Ostente el cargo de supervisor y encargado general de la sucursal, quedando en mis manos el control de personal, stock y demás tareas administrativas que requieran de mi control.",
+        "Trabaje en venta al consumidor, manejo de caja y demás tareas que mi posición requiere."
+      ]
+    }
+  ]
 }
